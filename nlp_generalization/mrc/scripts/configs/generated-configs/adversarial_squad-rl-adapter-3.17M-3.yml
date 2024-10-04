@@ -1,0 +1,6 @@
+dataset: squad_adversarial
+model:
+  base_model: roberta-large
+  model_name: varun-v-rao/roberta-large-bn-adapter-3.17M-squad-model3
+  model_type: adapter
+tokenizer: roberta-large

@@ -1,0 +1,7 @@
+dataset: sagnikrayc/musique-squad
+tokenizer: roberta-large
+model:
+  model_type: lora
+  base_model: roberta-large
+  model_name: varun-v-rao/roberta-large-lora-1.57M-squad-model2
+  

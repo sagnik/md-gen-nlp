@@ -1,0 +1,6 @@
+dataset: squad_adversarial
+model:
+  base_model: roberta-base
+  model_name: varun-v-rao/roberta-base-bn-adapter-895K-squad-model3
+  model_type: adapter
+tokenizer: roberta-base

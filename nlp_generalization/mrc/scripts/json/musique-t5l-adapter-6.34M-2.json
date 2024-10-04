@@ -1,0 +1,4502 @@
+{
+    "double__30913_30900":{
+        "label_text":[
+            "2003"
+        ],
+        "prediction_text":"March 16, 2004,"
+    },
+    "double__2946_2741":{
+        "label_text":[
+            "The School of the Elders"
+        ],
+        "prediction_text":"The Great Vehicle"
+    },
+    "double__22777_22785":{
+        "label_text":[
+            "the Russian defences"
+        ],
+        "prediction_text":"Russian defences"
+    },
+    "double__11598_11596":{
+        "label_text":[
+            "2015"
+        ],
+        "prediction_text":"2015"
+    },
+    "double__32506_32631":{
+        "label_text":[
+            "control of more Luftwaffe units"
+        ],
+        "prediction_text":"control of more Luftwaffe units"
+    },
+    "double__11804_11827":{
+        "label_text":[
+            "98%"
+        ],
+        "prediction_text":"98%"
+    },
+    "double__35440_35465":{
+        "label_text":[
+            "European Championship"
+        ],
+        "prediction_text":"UEFA"
+    },
+    "double__3648_36839":{
+        "label_text":[
+            "First Sino-Japanese"
+        ],
+        "prediction_text":"First Sino-Japanese War"
+    },
+    "double__22156_22195":{
+        "label_text":[
+            "1983"
+        ],
+        "prediction_text":"1967"
+    },
+    "double__15104_8955":{
+        "label_text":[
+            "1954"
+        ],
+        "prediction_text":"(1954 and 1956"
+    },
+    "double__3648_20314":{
+        "label_text":[
+            "era of Guomindang"
+        ],
+        "prediction_text":"the era of Guomindang-imposed martial law (1949\u20131987)"
+    },
+    "double__431_449":{
+        "label_text":[
+            "Kazimierz Palace"
+        ],
+        "prediction_text":"Warsaw Lyceum"
+    },
+    "double__431_453":{
+        "label_text":[
+            "1823 to 1826"
+        ],
+        "prediction_text":"1823 to 1826"
+    },
+    "double__7546_7521":{
+        "label_text":[
+            "1985"
+        ],
+        "prediction_text":"1985"
+    },
+    "double__431_445":{
+        "label_text":[
+            "Warsaw University"
+        ],
+        "prediction_text":"Warsaw University"
+    },
+    "double__28573_28514":{
+        "label_text":[
+            "the Red Army"
+        ],
+        "prediction_text":"the Red Army"
+    },
+    "double__16762_16779":{
+        "label_text":[
+            "1865"
+        ],
+        "prediction_text":"1865"
+    },
+    "double__16762_16772":{
+        "label_text":[
+            "1865"
+        ],
+        "prediction_text":"1865"
+    },
+    "double__852_875":{
+        "label_text":[
+            "Ming China"
+        ],
+        "prediction_text":"stabilize border regions and protect trade routes"
+    },
+    "double__852_41721":{
+        "label_text":[
+            "the Uighurs surrendered peacefully without violently resisting"
+        ],
+        "prediction_text":"the Uighurs surrendered to the Mongols first"
+    },
+    "double__16766_16779":{
+        "label_text":[
+            "1865"
+        ],
+        "prediction_text":"1865"
+    },
+    "double__887_875":{
+        "label_text":[
+            "Ming China"
+        ],
+        "prediction_text":"Tibetan Buddhism"
+    },
+    "double__852_41622":{
+        "label_text":[
+            "the Jin"
+        ],
+        "prediction_text":"the Jin"
+    },
+    "double__887_41721":{
+        "label_text":[
+            "the Uighurs surrendered peacefully without violently resisting"
+        ],
+        "prediction_text":"the Uighurs surrendered to the Mongols first"
+    },
+    "double__22408_40795":{
+        "label_text":[
+            "1972"
+        ],
+        "prediction_text":"1972"
+    },
+    "double__16766_16772":{
+        "label_text":[
+            "1865"
+        ],
+        "prediction_text":"1865"
+    },
+    "double__16764_16779":{
+        "label_text":[
+            "1865"
+        ],
+        "prediction_text":"1865"
+    },
+    "double__8299_8322":{
+        "label_text":[
+            "Admiral Robert Blake"
+        ],
+        "prediction_text":"Admiral Robert Blake"
+    },
+    "double__16764_16772":{
+        "label_text":[
+            "1865"
+        ],
+        "prediction_text":"1865"
+    },
+    "double__887_41622":{
+        "label_text":[
+            "the Jin"
+        ],
+        "prediction_text":"the Jin"
+    },
+    "double__6075_8322":{
+        "label_text":[
+            "Admiral Robert Blake"
+        ],
+        "prediction_text":"Admiral Robert Blake"
+    },
+    "double__2920_2741":{
+        "label_text":[
+            "The School of the Elders"
+        ],
+        "prediction_text":"The School of the Elders"
+    },
+    "double__2745_2741":{
+        "label_text":[
+            "The School of the Elders"
+        ],
+        "prediction_text":"Theravada"
+    },
+    "double__2928_2741":{
+        "label_text":[
+            "The School of the Elders"
+        ],
+        "prediction_text":"Theravada"
+    },
+    "double__2796_2741":{
+        "label_text":[
+            "The School of the Elders"
+        ],
+        "prediction_text":"Theravada"
+    },
+    "double__2795_2741":{
+        "label_text":[
+            "The School of the Elders"
+        ],
+        "prediction_text":"Theravada"
+    },
+    "double__2846_2741":{
+        "label_text":[
+            "The School of the Elders"
+        ],
+        "prediction_text":"in this world element"
+    },
+    "double__26647_18120":{
+        "label_text":[
+            "six"
+        ],
+        "prediction_text":"six"
+    },
+    "double__42435_16861":{
+        "label_text":[
+            "1820"
+        ],
+        "prediction_text":"1820"
+    },
+    "double__3256_2999":{
+        "label_text":[
+            "January 11, 2010"
+        ],
+        "prediction_text":"January 11, 2010,"
+    },
+    "double__2965_2999":{
+        "label_text":[
+            "January 11, 2010"
+        ],
+        "prediction_text":"January 11, 2010,"
+    },
+    "double__3254_2999":{
+        "label_text":[
+            "January 11, 2010"
+        ],
+        "prediction_text":"January 11, 2010,"
+    },
+    "double__2964_2998":{
+        "label_text":[
+            "before season nine"
+        ],
+        "prediction_text":"season ten"
+    },
+    "double__13631_13640":{
+        "label_text":[
+            "FBI is primarily a domestic agency"
+        ],
+        "prediction_text":"a domestic"
+    },
+    "double__13631_33802":{
+        "label_text":[
+            "Federal Bureau of Investigation"
+        ],
+        "prediction_text":"The FBI Laboratory"
+    },
+    "double__8663_8796":{
+        "label_text":[
+            "1862"
+        ],
+        "prediction_text":"1862"
+    },
+    "double__2961_2998":{
+        "label_text":[
+            "before season nine"
+        ],
+        "prediction_text":"Paula Abdul"
+    },
+    "double__13631_13665":{
+        "label_text":[
+            "search a house while the residents are away"
+        ],
+        "prediction_text":"search a house while the residents are away"
+    },
+    "double__13631_13703":{
+        "label_text":[
+            "DEA"
+        ],
+        "prediction_text":"Drug Enforcement Administration (DEA)"
+    },
+    "double__3099_2998":{
+        "label_text":[
+            "before season nine"
+        ],
+        "prediction_text":"Paula Abdul"
+    },
+    "double__3240_2998":{
+        "label_text":[
+            "before season nine"
+        ],
+        "prediction_text":"season ten"
+    },
+    "double__13631_13701":{
+        "label_text":[
+            "RICO"
+        ],
+        "prediction_text":"the Racketeer Influenced and Corrupt Organizations (RICO) Act"
+    },
+    "double__13631_13676":{
+        "label_text":[
+            "including celebrities such as Elvis Presley"
+        ],
+        "prediction_text":"The FBI has maintained files on numerous people, including celebrities such as Elvis Presley"
+    },
+    "double__20905_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__3257_2998":{
+        "label_text":[
+            "before season nine"
+        ],
+        "prediction_text":"January 11, 2010,"
+    },
+    "double__5015_8796":{
+        "label_text":[
+            "1862"
+        ],
+        "prediction_text":"1994"
+    },
+    "double__14164_1094":{
+        "label_text":[
+            "$99"
+        ],
+        "prediction_text":"US$99"
+    },
+    "double__3656_40087":{
+        "label_text":[
+            "70,000"
+        ],
+        "prediction_text":"more than 70,000"
+    },
+    "double__20905_20724":{
+        "label_text":[
+            "Pacentro, Italy"
+        ],
+        "prediction_text":"Pacentro, Italy"
+    },
+    "double__14164_1063":{
+        "label_text":[
+            "hundred million"
+        ],
+        "prediction_text":"one-hundred million"
+    },
+    "double__13631_13728":{
+        "label_text":[
+            "The FBI refused"
+        ],
+        "prediction_text":"The FBI refused"
+    },
+    "double__14164_14190":{
+        "label_text":[
+            "the iPod portable music player and iTunes music download service"
+        ],
+        "prediction_text":"iPod portable music player and iTunes music download service"
+    },
+    "double__14164_1069":{
+        "label_text":[
+            "19.22%"
+        ],
+        "prediction_text":"19.22%"
+    },
+    "double__23887_4681":{
+        "label_text":[
+            "June 1932"
+        ],
+        "prediction_text":"June 1932"
+    },
+    "double__23887_4688":{
+        "label_text":[
+            "six months"
+        ],
+        "prediction_text":"six months"
+    },
+    "double__23887_4697":{
+        "label_text":[
+            "Mickey's Gala Premier"
+        ],
+        "prediction_text":"Mickey Mouse cartoon, Mickey's Gala Premier"
+    },
+    "double__37594_39805":{
+        "label_text":[
+            "St. John's Church"
+        ],
+        "prediction_text":"St. John's Church"
+    },
+    "double__12680_31112":{
+        "label_text":[
+            "1842"
+        ],
+        "prediction_text":"1884"
+    },
+    "double__12680_31113":{
+        "label_text":[
+            "1910"
+        ],
+        "prediction_text":"1910)"
+    },
+    "double__24400_15345":{
+        "label_text":[
+            "Supreme Governor"
+        ],
+        "prediction_text":"Fellow of Christ's College, Cambridge"
+    },
+    "double__18426_18378":{
+        "label_text":[
+            "to defend Seoul"
+        ],
+        "prediction_text":"to defend Seoul"
+    },
+    "double__18355_18378":{
+        "label_text":[
+            "to defend Seoul"
+        ],
+        "prediction_text":"to defend Seoul"
+    },
+    "double__35384_15345":{
+        "label_text":[
+            "Supreme Governor"
+        ],
+        "prediction_text":"Supreme Governor"
+    },
+    "double__24744_15345":{
+        "label_text":[
+            "Supreme Governor"
+        ],
+        "prediction_text":"Church of England"
+    },
+    "double__33443_24815":{
+        "label_text":[
+            "some commentators have taken this as a concession to religion that Darwin later regretted"
+        ],
+        "prediction_text":"a concession to religion that Darwin later regretted"
+    },
+    "double__24400_6587":{
+        "label_text":[
+            "the Anglican Communion"
+        ],
+        "prediction_text":"Church of England"
+    },
+    "double__34208_22796":{
+        "label_text":[
+            "30000"
+        ],
+        "prediction_text":"20000"
+    },
+    "double__24744_6587":{
+        "label_text":[
+            "the Anglican Communion"
+        ],
+        "prediction_text":"Church of England"
+    },
+    "double__35384_6587":{
+        "label_text":[
+            "the Anglican Communion"
+        ],
+        "prediction_text":"Anglican Communion"
+    },
+    "double__983_40795":{
+        "label_text":[
+            "1972"
+        ],
+        "prediction_text":"1972"
+    },
+    "double__33443_24792":{
+        "label_text":[
+            "Darwin proposed scenarios for the incremental evolution of each feature."
+        ],
+        "prediction_text":"George Jackson Mivart"
+    },
+    "double__13398_25986":{
+        "label_text":[
+            "Microsoft Layer"
+        ],
+        "prediction_text":"Microsoft Layer for Unicode"
+    },
+    "double__13398_25981":{
+        "label_text":[
+            "WGL-4 with 652 characters"
+        ],
+        "prediction_text":"WGL-4"
+    },
+    "double__25985_25981":{
+        "label_text":[
+            "WGL-4 with 652 characters"
+        ],
+        "prediction_text":"WGL-4"
+    },
+    "double__25985_13399":{
+        "label_text":[
+            "128 symbols"
+        ],
+        "prediction_text":"128"
+    },
+    "double__18025_12703":{
+        "label_text":[
+            "1992"
+        ],
+        "prediction_text":"August 1992"
+    },
+    "double__19013_25981":{
+        "label_text":[
+            "WGL-4 with 652 characters"
+        ],
+        "prediction_text":"WGL-4"
+    },
+    "double__19013_25986":{
+        "label_text":[
+            "Microsoft Layer"
+        ],
+        "prediction_text":"Microsoft Layer for Unicode"
+    },
+    "double__18025_18027":{
+        "label_text":[
+            "1992"
+        ],
+        "prediction_text":"1992"
+    },
+    "double__19013_13399":{
+        "label_text":[
+            "128 symbols"
+        ],
+        "prediction_text":"128"
+    },
+    "double__5527_29344":{
+        "label_text":[
+            "presenting himself as a decisive leader and contrasted Kerry as a \"flip-flopper.\""
+        ],
+        "prediction_text":"One of Kerry's slogans was \"Stronger at home, respected in the world.\""
+    },
+    "double__5527_29312":{
+        "label_text":[
+            "surged to near 90%"
+        ],
+        "prediction_text":"President Bush"
+    },
+    "double__18025_34509":{
+        "label_text":[
+            "The money is divided into three parts:"
+        ],
+        "prediction_text":"half is divided equally between the clubs"
+    },
+    "double__25987_25981":{
+        "label_text":[
+            "WGL-4 with 652 characters"
+        ],
+        "prediction_text":"WGL-4"
+    },
+    "double__18025_34455":{
+        "label_text":[
+            "The league held its first season in 1992\u201393"
+        ],
+        "prediction_text":"1992\u201393"
+    },
+    "double__18025_34539":{
+        "label_text":[
+            "Stadium attendances are a significant source of regular income for Premier League clubs."
+        ],
+        "prediction_text":"Stadium attendances are a significant source of regular income"
+    },
+    "double__29345_29358":{
+        "label_text":[
+            "the outcome of the election hinged solely on the result in Ohio"
+        ],
+        "prediction_text":"Ohio"
+    },
+    "double__18025_34452":{
+        "label_text":[
+            "the Premier League would operate with a single division"
+        ],
+        "prediction_text":"three"
+    },
+    "double__25987_13399":{
+        "label_text":[
+            "128 symbols"
+        ],
+        "prediction_text":"128"
+    },
+    "double__5527_29346":{
+        "label_text":[
+            "a segment on 60 Minutes"
+        ],
+        "prediction_text":"CBS News"
+    },
+    "double__18025_34502":{
+        "label_text":[
+            "20 August 2011"
+        ],
+        "prediction_text":"7 May 2003 to 24 October 2004,"
+    },
+    "double__18025_34503":{
+        "label_text":[
+            "Wigan Athletic"
+        ],
+        "prediction_text":"Wigan Athletic"
+    },
+    "double__41649_10038":{
+        "label_text":[
+            "Qiantang"
+        ],
+        "prediction_text":"Hangzhou"
+    },
+    "double__10126_10038":{
+        "label_text":[
+            "Qiantang"
+        ],
+        "prediction_text":"Qiantang"
+    },
+    "double__37476_34638":{
+        "label_text":[
+            "March 44 BC"
+        ],
+        "prediction_text":"Julius Caesar"
+    },
+    "double__10067_10038":{
+        "label_text":[
+            "Qiantang"
+        ],
+        "prediction_text":"Qiantang"
+    },
+    "double__42152_20556":{
+        "label_text":[
+            "The Slavery Abolition Act"
+        ],
+        "prediction_text":"The Slavery Abolition Act"
+    },
+    "double__42152_32505":{
+        "label_text":[
+            "strangle British sea communications"
+        ],
+        "prediction_text":"strangle British sea communications"
+    },
+    "double__19632_34638":{
+        "label_text":[
+            "March 44 BC"
+        ],
+        "prediction_text":"12 BC"
+    },
+    "double__9922_20556":{
+        "label_text":[
+            "The Slavery Abolition Act"
+        ],
+        "prediction_text":"The Slavery Abolition Act"
+    },
+    "double__2047_10984":{
+        "label_text":[
+            "1851"
+        ],
+        "prediction_text":"The New York Times"
+    },
+    "double__643_10984":{
+        "label_text":[
+            "1851"
+        ],
+        "prediction_text":"(1851"
+    },
+    "double__20825_10984":{
+        "label_text":[
+            "1851"
+        ],
+        "prediction_text":"2009"
+    },
+    "double__2747_2913":{
+        "label_text":[
+            "360 million"
+        ],
+        "prediction_text":"360 million"
+    },
+    "double__2737_2913":{
+        "label_text":[
+            "360 million"
+        ],
+        "prediction_text":"360 million"
+    },
+    "double__9448_9449":{
+        "label_text":[
+            "30,000 species"
+        ],
+        "prediction_text":"30,000"
+    },
+    "double__2789_2913":{
+        "label_text":[
+            "360 million"
+        ],
+        "prediction_text":"360 million"
+    },
+    "double__9448_9509":{
+        "label_text":[
+            "over 120 million"
+        ],
+        "prediction_text":"120 million"
+    },
+    "double__2938_2913":{
+        "label_text":[
+            "360 million"
+        ],
+        "prediction_text":"360 million"
+    },
+    "double__2874_2913":{
+        "label_text":[
+            "360 million"
+        ],
+        "prediction_text":"360 million"
+    },
+    "double__2747_2738":{
+        "label_text":[
+            "Vajrayana"
+        ],
+        "prediction_text":"Vajrayana"
+    },
+    "double__2849_2913":{
+        "label_text":[
+            "360 million"
+        ],
+        "prediction_text":"360 million"
+    },
+    "double__2938_2738":{
+        "label_text":[
+            "Vajrayana"
+        ],
+        "prediction_text":"Mahayana"
+    },
+    "double__9433_9449":{
+        "label_text":[
+            "30,000 species"
+        ],
+        "prediction_text":"30,000"
+    },
+    "double__18305_16154":{
+        "label_text":[
+            "Many of majority European ancestry and appearance \"married white\" and assimilated into white society"
+        ],
+        "prediction_text":"\"married white\" and assimilated into white society"
+    },
+    "double__18305_20957":{
+        "label_text":[
+            "mid-19th century"
+        ],
+        "prediction_text":"19th century"
+    },
+    "double__2849_2738":{
+        "label_text":[
+            "Vajrayana"
+        ],
+        "prediction_text":"Vajrayana"
+    },
+    "double__9507_9449":{
+        "label_text":[
+            "30,000 species"
+        ],
+        "prediction_text":"30,000"
+    },
+    "double__9433_9509":{
+        "label_text":[
+            "over 120 million"
+        ],
+        "prediction_text":"120 million"
+    },
+    "double__9491_9509":{
+        "label_text":[
+            "over 120 million"
+        ],
+        "prediction_text":"the Alps"
+    },
+    "double__20484_36883":{
+        "label_text":[
+            "Indian"
+        ],
+        "prediction_text":"Indian"
+    },
+    "double__21514_9449":{
+        "label_text":[
+            "30,000 species"
+        ],
+        "prediction_text":"30,000"
+    },
+    "double__12130_36883":{
+        "label_text":[
+            "Indian"
+        ],
+        "prediction_text":"Indian"
+    },
+    "double__21514_9509":{
+        "label_text":[
+            "over 120 million"
+        ],
+        "prediction_text":"120 million"
+    },
+    "double__41221_35376":{
+        "label_text":[
+            "Celtic dialects of the Insular Celtic group"
+        ],
+        "prediction_text":"Celtic dialects of the Insular Celtic group"
+    },
+    "double__41219_35376":{
+        "label_text":[
+            "Celtic dialects of the Insular Celtic group"
+        ],
+        "prediction_text":"Celtic"
+    },
+    "double__41221_22303":{
+        "label_text":[
+            "the linear defence concept"
+        ],
+        "prediction_text":"linear"
+    },
+    "double__41219_22303":{
+        "label_text":[
+            "the linear defence concept"
+        ],
+        "prediction_text":"linear defence"
+    },
+    "double__13778_15345":{
+        "label_text":[
+            "Supreme Governor"
+        ],
+        "prediction_text":"Supreme Governor"
+    },
+    "double__37716_15345":{
+        "label_text":[
+            "Supreme Governor"
+        ],
+        "prediction_text":"Supreme Governor"
+    },
+    "double__37689_15345":{
+        "label_text":[
+            "Supreme Governor"
+        ],
+        "prediction_text":"Supreme Governor"
+    },
+    "double__13778_6587":{
+        "label_text":[
+            "the Anglican Communion"
+        ],
+        "prediction_text":"Church of England"
+    },
+    "double__37161_24960":{
+        "label_text":[
+            "a week"
+        ],
+        "prediction_text":"a week"
+    },
+    "double__24394_15345":{
+        "label_text":[
+            "Supreme Governor"
+        ],
+        "prediction_text":"Supreme Governor"
+    },
+    "double__37689_6587":{
+        "label_text":[
+            "the Anglican Communion"
+        ],
+        "prediction_text":"Church of England"
+    },
+    "double__2366_39300":{
+        "label_text":[
+            "Snite Museum of Art"
+        ],
+        "prediction_text":"Snite Museum of Art"
+    },
+    "double__22755_24960":{
+        "label_text":[
+            "a week"
+        ],
+        "prediction_text":"a week"
+    },
+    "double__24394_6587":{
+        "label_text":[
+            "the Anglican Communion"
+        ],
+        "prediction_text":"Church of England"
+    },
+    "double__28554_24960":{
+        "label_text":[
+            "a week"
+        ],
+        "prediction_text":"a week"
+    },
+    "double__4370_15345":{
+        "label_text":[
+            "Supreme Governor"
+        ],
+        "prediction_text":"College of Minor Canons of St Paul's Cathedral"
+    },
+    "double__2366_39434":{
+        "label_text":[
+            "more than 93%"
+        ],
+        "prediction_text":"93%"
+    },
+    "double__2366_39289":{
+        "label_text":[
+            "University of Notre Dame du"
+        ],
+        "prediction_text":"University of Notre Dame"
+    },
+    "double__4370_6587":{
+        "label_text":[
+            "the Anglican Communion"
+        ],
+        "prediction_text":"The Church of England"
+    },
+    "double__10663_24960":{
+        "label_text":[
+            "a week"
+        ],
+        "prediction_text":"a week"
+    },
+    "double__6584_6587":{
+        "label_text":[
+            "the Anglican Communion"
+        ],
+        "prediction_text":"canon law"
+    },
+    "double__2366_39401":{
+        "label_text":[
+            "18th overall"
+        ],
+        "prediction_text":"18th"
+    },
+    "double__26812_37793":{
+        "label_text":[
+            "approximately 2.4 billion"
+        ],
+        "prediction_text":"2.4 billion"
+    },
+    "double__26812_37038":{
+        "label_text":[
+            "a red cross on a white field"
+        ],
+        "prediction_text":"The banner of the Christian soldiers in the First Crusade was a red cross on a white field"
+    },
+    "double__17057_37793":{
+        "label_text":[
+            "approximately 2.4 billion"
+        ],
+        "prediction_text":"2.4 billion"
+    },
+    "double__26812_5235":{
+        "label_text":[
+            "Jesus Christ"
+        ],
+        "prediction_text":"Jesus Christ"
+    },
+    "double__17057_37038":{
+        "label_text":[
+            "a red cross on a white field"
+        ],
+        "prediction_text":"Christians"
+    },
+    "double__17057_5235":{
+        "label_text":[
+            "Jesus Christ"
+        ],
+        "prediction_text":"Jesus Christ"
+    },
+    "double__5234_37793":{
+        "label_text":[
+            "approximately 2.4 billion"
+        ],
+        "prediction_text":"Christians"
+    },
+    "double__37477_37793":{
+        "label_text":[
+            "approximately 2.4 billion"
+        ],
+        "prediction_text":"Rome"
+    },
+    "double__37477_5235":{
+        "label_text":[
+            "Jesus Christ"
+        ],
+        "prediction_text":"Jesus Christ"
+    },
+    "double__37477_37038":{
+        "label_text":[
+            "a red cross on a white field"
+        ],
+        "prediction_text":"a red cross on a white field"
+    },
+    "double__16588_37793":{
+        "label_text":[
+            "approximately 2.4 billion"
+        ],
+        "prediction_text":"2.4 billion"
+    },
+    "double__25904_25910":{
+        "label_text":[
+            "the Three Gorges Dam project."
+        ],
+        "prediction_text":"reservoir areas of the Three Gorges Dam project"
+    },
+    "double__29345_29359":{
+        "label_text":[
+            "Al Gore"
+        ],
+        "prediction_text":"Al Gore"
+    },
+    "double__16588_37038":{
+        "label_text":[
+            "a red cross on a white field"
+        ],
+        "prediction_text":"a red cross on a white field, the St. George's Cross"
+    },
+    "double__16588_5235":{
+        "label_text":[
+            "Jesus Christ"
+        ],
+        "prediction_text":"Jesus Christ"
+    },
+    "double__39185_18657":{
+        "label_text":[
+            "19 June 2000"
+        ],
+        "prediction_text":"1 January 2012"
+    },
+    "double__28974_18657":{
+        "label_text":[
+            "19 June 2000"
+        ],
+        "prediction_text":"19 June 2000"
+    },
+    "double__9681_25111":{
+        "label_text":[
+            "Portuguese-based legal system"
+        ],
+        "prediction_text":"Portuguese"
+    },
+    "double__39185_40786":{
+        "label_text":[
+            "The European Court of Justice"
+        ],
+        "prediction_text":"The European Court of Justice"
+    },
+    "double__38754_25111":{
+        "label_text":[
+            "Portuguese-based legal system"
+        ],
+        "prediction_text":"common law"
+    },
+    "double__28974_40786":{
+        "label_text":[
+            "The European Court of Justice"
+        ],
+        "prediction_text":"European Court of Justice"
+    },
+    "double__28974_22384":{
+        "label_text":[
+            "Europe's most innovative country"
+        ],
+        "prediction_text":"Europe's most innovative country"
+    },
+    "double__39185_21326":{
+        "label_text":[
+            "Deputy Prime Minister Nick Clegg"
+        ],
+        "prediction_text":"Nick Clegg"
+    },
+    "double__28974_21326":{
+        "label_text":[
+            "Deputy Prime Minister Nick Clegg"
+        ],
+        "prediction_text":"Nick Clegg"
+    },
+    "double__20216_20122":{
+        "label_text":[
+            "Peter Grant"
+        ],
+        "prediction_text":"Peter Grant"
+    },
+    "double__35598_31102":{
+        "label_text":[
+            "1970"
+        ],
+        "prediction_text":"1970"
+    },
+    "double__35598_31101":{
+        "label_text":[
+            "1872"
+        ],
+        "prediction_text":"(1872\u20131970"
+    },
+    "double__28342_16154":{
+        "label_text":[
+            "Many of majority European ancestry and appearance \"married white\" and assimilated into white society"
+        ],
+        "prediction_text":"\"married white\" and assimilated into white society"
+    },
+    "double__28342_20957":{
+        "label_text":[
+            "mid-19th century"
+        ],
+        "prediction_text":"19th century"
+    },
+    "double__41457_16154":{
+        "label_text":[
+            "Many of majority European ancestry and appearance \"married white\" and assimilated into white society"
+        ],
+        "prediction_text":"\"married white\" and assimilated into white society"
+    },
+    "double__41457_20957":{
+        "label_text":[
+            "mid-19th century"
+        ],
+        "prediction_text":"19th century"
+    },
+    "double__14241_16154":{
+        "label_text":[
+            "Many of majority European ancestry and appearance \"married white\" and assimilated into white society"
+        ],
+        "prediction_text":"\"married white\" and assimilated into white society"
+    },
+    "double__14241_20957":{
+        "label_text":[
+            "mid-19th century"
+        ],
+        "prediction_text":"mid-1941"
+    },
+    "double__14780_42185":{
+        "label_text":[
+            "1862"
+        ],
+        "prediction_text":"(1862"
+    },
+    "double__21647_21587":{
+        "label_text":[
+            "1824"
+        ],
+        "prediction_text":"1824"
+    },
+    "double__23496_24779":{
+        "label_text":[
+            "the sixth edition"
+        ],
+        "prediction_text":"1859"
+    },
+    "double__28291_24779":{
+        "label_text":[
+            "the sixth edition"
+        ],
+        "prediction_text":"sixth edition"
+    },
+    "double__8324_24779":{
+        "label_text":[
+            "the sixth edition"
+        ],
+        "prediction_text":"sixth edition"
+    },
+    "double__9528_24779":{
+        "label_text":[
+            "the sixth edition"
+        ],
+        "prediction_text":"sixth"
+    },
+    "double__41167_24779":{
+        "label_text":[
+            "the sixth edition"
+        ],
+        "prediction_text":"sixth edition"
+    },
+    "double__36336_36340":{
+        "label_text":[
+            "Windhoek Country Club Resort"
+        ],
+        "prediction_text":"Windhoek Country Club Resort"
+    },
+    "double__20206_3004":{
+        "label_text":[
+            "season nine"
+        ],
+        "prediction_text":"Katy Perry"
+    },
+    "double__4502_15755":{
+        "label_text":[
+            "1632"
+        ],
+        "prediction_text":"(1632"
+    },
+    "double__37772_15755":{
+        "label_text":[
+            "1632"
+        ],
+        "prediction_text":"(1632"
+    },
+    "double__21806_15755":{
+        "label_text":[
+            "1632"
+        ],
+        "prediction_text":"(1632"
+    },
+    "double__4502_37771":{
+        "label_text":[
+            "a set of Protestant Christian assumptions"
+        ],
+        "prediction_text":"a set of Protestant Christian assumptions"
+    },
+    "double__32362_15755":{
+        "label_text":[
+            "1632"
+        ],
+        "prediction_text":"(1632"
+    },
+    "double__4499_15755":{
+        "label_text":[
+            "1632"
+        ],
+        "prediction_text":"(1632"
+    },
+    "double__25390_15755":{
+        "label_text":[
+            "1632"
+        ],
+        "prediction_text":"(1632"
+    },
+    "double__15754_37771":{
+        "label_text":[
+            "a set of Protestant Christian assumptions"
+        ],
+        "prediction_text":"a set of Protestant Christian assumptions"
+    },
+    "double__25390_37771":{
+        "label_text":[
+            "a set of Protestant Christian assumptions"
+        ],
+        "prediction_text":"John Locke"
+    },
+    "double__32362_37771":{
+        "label_text":[
+            "a set of Protestant Christian assumptions"
+        ],
+        "prediction_text":"a set of Protestant Christian assumptions"
+    },
+    "double__4499_37771":{
+        "label_text":[
+            "a set of Protestant Christian assumptions"
+        ],
+        "prediction_text":"Protestant Christian assumptions"
+    },
+    "double__25953_872":{
+        "label_text":[
+            "Ming general Qu Neng"
+        ],
+        "prediction_text":"Qu Neng"
+    },
+    "double__25908_872":{
+        "label_text":[
+            "Ming general Qu Neng"
+        ],
+        "prediction_text":"Qu Neng"
+    },
+    "double__25901_872":{
+        "label_text":[
+            "Ming general Qu Neng"
+        ],
+        "prediction_text":"Ming general Qu Neng"
+    },
+    "double__27723_27669":{
+        "label_text":[
+            "2015"
+        ],
+        "prediction_text":"2015"
+    },
+    "double__27723_27668":{
+        "label_text":[
+            "eastern tip"
+        ],
+        "prediction_text":"eastern tip"
+    },
+    "double__27702_27737":{
+        "label_text":[
+            "three"
+        ],
+        "prediction_text":"three"
+    },
+    "double__27732_27668":{
+        "label_text":[
+            "eastern tip"
+        ],
+        "prediction_text":"St. John's"
+    },
+    "double__27742_27737":{
+        "label_text":[
+            "three"
+        ],
+        "prediction_text":"three"
+    },
+    "double__27702_27668":{
+        "label_text":[
+            "eastern tip"
+        ],
+        "prediction_text":"St. John's"
+    },
+    "double__27702_27669":{
+        "label_text":[
+            "2015"
+        ],
+        "prediction_text":"2015"
+    },
+    "double__27732_27737":{
+        "label_text":[
+            "three"
+        ],
+        "prediction_text":"three"
+    },
+    "double__27732_27669":{
+        "label_text":[
+            "2015"
+        ],
+        "prediction_text":"2015"
+    },
+    "double__27742_27669":{
+        "label_text":[
+            "2015"
+        ],
+        "prediction_text":"July 1, 2015"
+    },
+    "double__27714_27668":{
+        "label_text":[
+            "eastern tip"
+        ],
+        "prediction_text":"St. John's"
+    },
+    "double__27714_27737":{
+        "label_text":[
+            "three"
+        ],
+        "prediction_text":"three"
+    },
+    "double__27714_27669":{
+        "label_text":[
+            "2015"
+        ],
+        "prediction_text":"2015"
+    },
+    "double__27742_27668":{
+        "label_text":[
+            "eastern tip"
+        ],
+        "prediction_text":"St. John's"
+    },
+    "double__27726_27737":{
+        "label_text":[
+            "three"
+        ],
+        "prediction_text":"three"
+    },
+    "double__27726_27669":{
+        "label_text":[
+            "2015"
+        ],
+        "prediction_text":"July 1, 2015"
+    },
+    "double__27726_27668":{
+        "label_text":[
+            "eastern tip"
+        ],
+        "prediction_text":"eastern tip"
+    },
+    "double__27670_27669":{
+        "label_text":[
+            "2015"
+        ],
+        "prediction_text":"2015"
+    },
+    "double__27670_27668":{
+        "label_text":[
+            "eastern tip"
+        ],
+        "prediction_text":"St. John's"
+    },
+    "double__27667_27737":{
+        "label_text":[
+            "three"
+        ],
+        "prediction_text":"three"
+    },
+    "double__27670_27737":{
+        "label_text":[
+            "three"
+        ],
+        "prediction_text":"three"
+    },
+    "double__22148_22235":{
+        "label_text":[
+            "26 September"
+        ],
+        "prediction_text":"26 September"
+    },
+    "double__22148_22229":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__22148_22103":{
+        "label_text":[
+            "Giovanni"
+        ],
+        "prediction_text":"Giovanni Battista Enrico Antonio Maria Montini"
+    },
+    "double__22251_22229":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__22251_22235":{
+        "label_text":[
+            "26 September"
+        ],
+        "prediction_text":"26 September"
+    },
+    "double__22148_22183":{
+        "label_text":[
+            "six"
+        ],
+        "prediction_text":"six"
+    },
+    "double__22236_22229":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__22148_22238":{
+        "label_text":[
+            "Pope Francis"
+        ],
+        "prediction_text":"Pope Francis"
+    },
+    "double__22215_22235":{
+        "label_text":[
+            "26 September"
+        ],
+        "prediction_text":"26 September"
+    },
+    "double__22251_22103":{
+        "label_text":[
+            "Giovanni"
+        ],
+        "prediction_text":"Giovanni Battista Enrico Antonio Maria Montini"
+    },
+    "double__22215_22229":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__22251_22183":{
+        "label_text":[
+            "six"
+        ],
+        "prediction_text":"six"
+    },
+    "double__42448_42483":{
+        "label_text":[
+            "three-dimensional objects"
+        ],
+        "prediction_text":"natural state of rest\"."
+    },
+    "double__22251_22238":{
+        "label_text":[
+            "Pope Francis"
+        ],
+        "prediction_text":"Pope Francis"
+    },
+    "double__22236_22103":{
+        "label_text":[
+            "Giovanni"
+        ],
+        "prediction_text":"Giovanni Battista Enrico Antonio Maria Montini"
+    },
+    "double__22236_22183":{
+        "label_text":[
+            "six"
+        ],
+        "prediction_text":"six"
+    },
+    "double__15674_42483":{
+        "label_text":[
+            "three-dimensional objects"
+        ],
+        "prediction_text":"three-dimensional"
+    },
+    "double__22215_22183":{
+        "label_text":[
+            "six"
+        ],
+        "prediction_text":"six"
+    },
+    "double__22215_22103":{
+        "label_text":[
+            "Giovanni"
+        ],
+        "prediction_text":"Giovanni Battista Enrico Antonio Maria Montini"
+    },
+    "double__22215_22238":{
+        "label_text":[
+            "Pope Francis"
+        ],
+        "prediction_text":"Pope Francis"
+    },
+    "double__37229_10531":{
+        "label_text":[
+            "7th"
+        ],
+        "prediction_text":"7th"
+    },
+    "double__28051_33145":{
+        "label_text":[
+            "Aztec Empire"
+        ],
+        "prediction_text":"Aztec Empire and alliance, the Inca civilization"
+    },
+    "double__10692_33145":{
+        "label_text":[
+            "Aztec Empire"
+        ],
+        "prediction_text":"Aztec Empire"
+    },
+    "double__30223_10531":{
+        "label_text":[
+            "7th"
+        ],
+        "prediction_text":"7th century"
+    },
+    "double__10833_26501":{
+        "label_text":[
+            "mid-7th to early 8th centuries"
+        ],
+        "prediction_text":"mid-7th to early 8th centuries"
+    },
+    "double__10835_26501":{
+        "label_text":[
+            "mid-7th to early 8th centuries"
+        ],
+        "prediction_text":"mid-7th to early 8th centuries"
+    },
+    "double__30156_10531":{
+        "label_text":[
+            "7th"
+        ],
+        "prediction_text":"7th"
+    },
+    "double__37229_26501":{
+        "label_text":[
+            "mid-7th to early 8th centuries"
+        ],
+        "prediction_text":"mid-7th to early 8th centuries"
+    },
+    "double__14501_26501":{
+        "label_text":[
+            "mid-7th to early 8th centuries"
+        ],
+        "prediction_text":"mid-7th to early 8th centuries"
+    },
+    "double__23147_26501":{
+        "label_text":[
+            "mid-7th to early 8th centuries"
+        ],
+        "prediction_text":"mid-7th to early 8th centuries"
+    },
+    "double__30223_26501":{
+        "label_text":[
+            "mid-7th to early 8th centuries"
+        ],
+        "prediction_text":"mid-7th to early 8th centuries"
+    },
+    "double__6662_6660":{
+        "label_text":[
+            "Iberian Peninsula"
+        ],
+        "prediction_text":"Catalonia"
+    },
+    "double__6648_6660":{
+        "label_text":[
+            "Iberian Peninsula"
+        ],
+        "prediction_text":"Catalonia"
+    },
+    "double__24343_6660":{
+        "label_text":[
+            "Iberian Peninsula"
+        ],
+        "prediction_text":"Catalonia"
+    },
+    "double__32335_32467":{
+        "label_text":[
+            "150 years"
+        ],
+        "prediction_text":"150 years"
+    },
+    "double__32335_32463":{
+        "label_text":[
+            "downtown Charleston"
+        ],
+        "prediction_text":"downtown Charleston"
+    },
+    "double__6391_6402":{
+        "label_text":[
+            "October 11, 1968"
+        ],
+        "prediction_text":"October 11, 1968"
+    },
+    "double__8460_8477":{
+        "label_text":[
+            "Eine kleine Nachtmusik"
+        ],
+        "prediction_text":"Mozart's Eine kleine Nachtmusik"
+    },
+    "double__8469_8477":{
+        "label_text":[
+            "Eine kleine Nachtmusik"
+        ],
+        "prediction_text":"Eine kleine Nachtmusik"
+    },
+    "double__15674_42467":{
+        "label_text":[
+            "Mercury"
+        ],
+        "prediction_text":"Mercury"
+    },
+    "double__9055_34874":{
+        "label_text":[
+            "defences at Kohima"
+        ],
+        "prediction_text":"failed to capture the whole of the defences at Kohima"
+    },
+    "double__31059_34874":{
+        "label_text":[
+            "defences at Kohima"
+        ],
+        "prediction_text":"the whole of the defences at Kohima"
+    },
+    "double__14982_34874":{
+        "label_text":[
+            "defences at Kohima"
+        ],
+        "prediction_text":"the whole of the defences at Kohima"
+    },
+    "double__14658_34874":{
+        "label_text":[
+            "defences at Kohima"
+        ],
+        "prediction_text":"defences at Kohima"
+    },
+    "double__19108_34874":{
+        "label_text":[
+            "defences at Kohima"
+        ],
+        "prediction_text":"defences at Kohima"
+    },
+    "double__9232_34874":{
+        "label_text":[
+            "defences at Kohima"
+        ],
+        "prediction_text":"the whole of the defences at Kohima"
+    },
+    "double__40765_34874":{
+        "label_text":[
+            "defences at Kohima"
+        ],
+        "prediction_text":"defences at Kohima"
+    },
+    "double__40767_34874":{
+        "label_text":[
+            "defences at Kohima"
+        ],
+        "prediction_text":"the whole of the defences at Kohima"
+    },
+    "double__19108_34844":{
+        "label_text":[
+            "February 1943"
+        ],
+        "prediction_text":"February 1943"
+    },
+    "double__40765_34844":{
+        "label_text":[
+            "February 1943"
+        ],
+        "prediction_text":"February 1943"
+    },
+    "double__9232_34844":{
+        "label_text":[
+            "February 1943"
+        ],
+        "prediction_text":"February 1943"
+    },
+    "double__40767_34844":{
+        "label_text":[
+            "February 1943"
+        ],
+        "prediction_text":"February 1943"
+    },
+    "double__13647_13640":{
+        "label_text":[
+            "FBI is primarily a domestic agency"
+        ],
+        "prediction_text":"FBI"
+    },
+    "double__13647_33802":{
+        "label_text":[
+            "Federal Bureau of Investigation"
+        ],
+        "prediction_text":"COunter-INTELligence PROgram.\""
+    },
+    "double__13686_13640":{
+        "label_text":[
+            "FBI is primarily a domestic agency"
+        ],
+        "prediction_text":"Federal Bureau of Investigation"
+    },
+    "double__13647_13676":{
+        "label_text":[
+            "including celebrities such as Elvis Presley"
+        ],
+        "prediction_text":"The FBI"
+    },
+    "double__13647_13703":{
+        "label_text":[
+            "DEA"
+        ],
+        "prediction_text":"Drug Enforcement Administration"
+    },
+    "double__13647_13665":{
+        "label_text":[
+            "search a house while the residents are away"
+        ],
+        "prediction_text":"search a house while the residents are away"
+    },
+    "double__13647_13701":{
+        "label_text":[
+            "RICO"
+        ],
+        "prediction_text":"the Racketeer Influenced and Corrupt Organizations (RICO) Act"
+    },
+    "double__13705_13640":{
+        "label_text":[
+            "FBI is primarily a domestic agency"
+        ],
+        "prediction_text":"domestic"
+    },
+    "double__13686_13665":{
+        "label_text":[
+            "search a house while the residents are away"
+        ],
+        "prediction_text":"search a house"
+    },
+    "double__13686_13676":{
+        "label_text":[
+            "including celebrities such as Elvis Presley"
+        ],
+        "prediction_text":"The FBI has maintained files on numerous people, including celebrities such as Elvis Presley"
+    },
+    "double__13686_13701":{
+        "label_text":[
+            "RICO"
+        ],
+        "prediction_text":"the Racketeer Influenced and Corrupt Organizations (RICO) Act"
+    },
+    "double__13705_33802":{
+        "label_text":[
+            "Federal Bureau of Investigation"
+        ],
+        "prediction_text":"Joint Terrorism Task Force"
+    },
+    "double__13686_13703":{
+        "label_text":[
+            "DEA"
+        ],
+        "prediction_text":"Drug Enforcement Administration"
+    },
+    "double__13705_13676":{
+        "label_text":[
+            "including celebrities such as Elvis Presley"
+        ],
+        "prediction_text":"The FBI has maintained files on numerous people, including celebrities such as Elvis Presley"
+    },
+    "double__13705_13703":{
+        "label_text":[
+            "DEA"
+        ],
+        "prediction_text":"Drug Enforcement Administration"
+    },
+    "double__13705_13701":{
+        "label_text":[
+            "RICO"
+        ],
+        "prediction_text":"Racketeer Influenced and Corrupt Organizations (RICO) Act"
+    },
+    "double__13705_13665":{
+        "label_text":[
+            "search a house while the residents are away"
+        ],
+        "prediction_text":"search a house while the residents are away"
+    },
+    "double__13647_13728":{
+        "label_text":[
+            "The FBI refused"
+        ],
+        "prediction_text":"The FBI refused"
+    },
+    "double__13686_13728":{
+        "label_text":[
+            "The FBI refused"
+        ],
+        "prediction_text":"refused"
+    },
+    "double__15065_10369":{
+        "label_text":[
+            "Hassan Gouled Aptidon"
+        ],
+        "prediction_text":"Hassan Gouled Aptidon"
+    },
+    "double__8809_8607":{
+        "label_text":[
+            "South Hampshire"
+        ],
+        "prediction_text":"South Hampshire"
+    },
+    "double__8809_8600":{
+        "label_text":[
+            "north-west"
+        ],
+        "prediction_text":"east"
+    },
+    "double__36139_18657":{
+        "label_text":[
+            "19 June 2000"
+        ],
+        "prediction_text":"19 June 2000"
+    },
+    "double__11583_18657":{
+        "label_text":[
+            "19 June 2000"
+        ],
+        "prediction_text":"19 June 2000"
+    },
+    "double__36139_22384":{
+        "label_text":[
+            "Europe's most innovative country"
+        ],
+        "prediction_text":"most competitive in the world"
+    },
+    "double__36139_40786":{
+        "label_text":[
+            "The European Court of Justice"
+        ],
+        "prediction_text":"European Court of Justice"
+    },
+    "double__11583_22384":{
+        "label_text":[
+            "Europe's most innovative country"
+        ],
+        "prediction_text":"World Economic Forum's Global Competitiveness Report currently ranks Switzerland's economy as the most competitive in the world"
+    },
+    "double__22368_18657":{
+        "label_text":[
+            "19 June 2000"
+        ],
+        "prediction_text":"19 June 2000"
+    },
+    "double__11583_40786":{
+        "label_text":[
+            "The European Court of Justice"
+        ],
+        "prediction_text":"European Union"
+    },
+    "double__36139_21326":{
+        "label_text":[
+            "Deputy Prime Minister Nick Clegg"
+        ],
+        "prediction_text":"Nick Clegg"
+    },
+    "double__36206_18657":{
+        "label_text":[
+            "19 June 2000"
+        ],
+        "prediction_text":"19 June 2000"
+    },
+    "double__36206_40786":{
+        "label_text":[
+            "The European Court of Justice"
+        ],
+        "prediction_text":"The European Court of Justice"
+    },
+    "double__36206_22384":{
+        "label_text":[
+            "Europe's most innovative country"
+        ],
+        "prediction_text":"most competitive in the world"
+    },
+    "double__22368_22384":{
+        "label_text":[
+            "Europe's most innovative country"
+        ],
+        "prediction_text":"Europe's most innovative country"
+    },
+    "double__22368_40786":{
+        "label_text":[
+            "The European Court of Justice"
+        ],
+        "prediction_text":"The European Court of Justice"
+    },
+    "double__11583_21326":{
+        "label_text":[
+            "Deputy Prime Minister Nick Clegg"
+        ],
+        "prediction_text":"Nick Clegg"
+    },
+    "double__36651_18657":{
+        "label_text":[
+            "19 June 2000"
+        ],
+        "prediction_text":"19 June 2000"
+    },
+    "double__36206_21326":{
+        "label_text":[
+            "Deputy Prime Minister Nick Clegg"
+        ],
+        "prediction_text":"Nick Clegg"
+    },
+    "double__22368_21326":{
+        "label_text":[
+            "Deputy Prime Minister Nick Clegg"
+        ],
+        "prediction_text":"Nick Clegg"
+    },
+    "double__36651_22384":{
+        "label_text":[
+            "Europe's most innovative country"
+        ],
+        "prediction_text":"most competitive in the world"
+    },
+    "double__36651_40786":{
+        "label_text":[
+            "The European Court of Justice"
+        ],
+        "prediction_text":"European Court of Justice"
+    },
+    "double__36651_21326":{
+        "label_text":[
+            "Deputy Prime Minister Nick Clegg"
+        ],
+        "prediction_text":"Nick Clegg"
+    },
+    "double__13741_13735":{
+        "label_text":[
+            "mother of Jesus"
+        ],
+        "prediction_text":"Jesus"
+    },
+    "double__13741_25018":{
+        "label_text":[
+            "hour-by-hour account"
+        ],
+        "prediction_text":"hour-by-hour"
+    },
+    "double__13741_25017":{
+        "label_text":[
+            "Jesus' arrest, trial, crucifixion, burial, and accounts of resurrection"
+        ],
+        "prediction_text":"the death of Jesus"
+    },
+    "double__13741_15928":{
+        "label_text":[
+            "the Arian position"
+        ],
+        "prediction_text":"Arian"
+    },
+    "double__13741_25008":{
+        "label_text":[
+            "the exact reasons for the death of Jesus are hard to determine"
+        ],
+        "prediction_text":"hard to determine"
+    },
+    "double__13741_13787":{
+        "label_text":[
+            "1:34"
+        ],
+        "prediction_text":"\"As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord"
+    },
+    "double__983_4661":{
+        "label_text":[
+            "European Union"
+        ],
+        "prediction_text":"EU"
+    },
+    "double__30132_37260":{
+        "label_text":[
+            "5th\u20136th centuries"
+        ],
+        "prediction_text":"Church of the Acheiropoietos in Thessaloniki"
+    },
+    "double__30132_37261":{
+        "label_text":[
+            "Christ in majesty (or Ezekiel's Vision)"
+        ],
+        "prediction_text":"Ezekiel's Vision"
+    },
+    "double__13939_37260":{
+        "label_text":[
+            "5th\u20136th centuries"
+        ],
+        "prediction_text":"(5th\u20136th centuries"
+    },
+    "double__30132_37939":{
+        "label_text":[
+            "273,282"
+        ],
+        "prediction_text":"513,319"
+    },
+    "double__30132_37927":{
+        "label_text":[
+            "the country's second-largest city"
+        ],
+        "prediction_text":"second-largest"
+    },
+    "double__770_26548":{
+        "label_text":[
+            "yak meat"
+        ],
+        "prediction_text":"roasted barley, yak meat"
+    },
+    "double__3880_26548":{
+        "label_text":[
+            "yak meat"
+        ],
+        "prediction_text":"roasted barley, yak meat"
+    },
+    "double__3880_919":{
+        "label_text":[
+            "1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__770_919":{
+        "label_text":[
+            "1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__864_26548":{
+        "label_text":[
+            "yak meat"
+        ],
+        "prediction_text":"roasted barley, yak meat"
+    },
+    "double__834_26548":{
+        "label_text":[
+            "yak meat"
+        ],
+        "prediction_text":"roasted barley, yak meat"
+    },
+    "double__26571_26548":{
+        "label_text":[
+            "yak meat"
+        ],
+        "prediction_text":"roasted barley, yak meat, and butter tea"
+    },
+    "double__770_36842":{
+        "label_text":[
+            "mid-18th century"
+        ],
+        "prediction_text":"907)"
+    },
+    "double__836_26548":{
+        "label_text":[
+            "yak meat"
+        ],
+        "prediction_text":"roasted barley, yak meat"
+    },
+    "double__864_919":{
+        "label_text":[
+            "1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__836_919":{
+        "label_text":[
+            "1642"
+        ],
+        "prediction_text":"1413"
+    },
+    "double__770_3807":{
+        "label_text":[
+            "600"
+        ],
+        "prediction_text":"600"
+    },
+    "double__26571_919":{
+        "label_text":[
+            "1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__3880_3807":{
+        "label_text":[
+            "600"
+        ],
+        "prediction_text":"between 2,000 and 10,000"
+    },
+    "double__834_919":{
+        "label_text":[
+            "1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__26541_26548":{
+        "label_text":[
+            "yak meat"
+        ],
+        "prediction_text":"roasted barley, yak meat"
+    },
+    "double__770_909":{
+        "label_text":[
+            "In 1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__26541_919":{
+        "label_text":[
+            "1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__834_36842":{
+        "label_text":[
+            "mid-18th century"
+        ],
+        "prediction_text":"mid-18th century"
+    },
+    "double__3880_909":{
+        "label_text":[
+            "In 1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__836_36842":{
+        "label_text":[
+            "mid-18th century"
+        ],
+        "prediction_text":"1413"
+    },
+    "double__834_3807":{
+        "label_text":[
+            "600"
+        ],
+        "prediction_text":"between 2,000 and 10,000"
+    },
+    "double__864_909":{
+        "label_text":[
+            "In 1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__836_3807":{
+        "label_text":[
+            "600"
+        ],
+        "prediction_text":"600"
+    },
+    "double__26571_3807":{
+        "label_text":[
+            "600"
+        ],
+        "prediction_text":"600"
+    },
+    "double__26541_3807":{
+        "label_text":[
+            "600"
+        ],
+        "prediction_text":"between 2,000 and 10,000"
+    },
+    "double__834_909":{
+        "label_text":[
+            "In 1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__26571_909":{
+        "label_text":[
+            "In 1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__836_909":{
+        "label_text":[
+            "In 1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__26541_909":{
+        "label_text":[
+            "In 1642"
+        ],
+        "prediction_text":"1642"
+    },
+    "double__770_917":{
+        "label_text":[
+            "the Mongols"
+        ],
+        "prediction_text":"Mongol"
+    },
+    "double__3880_917":{
+        "label_text":[
+            "the Mongols"
+        ],
+        "prediction_text":"Mongol"
+    },
+    "double__836_917":{
+        "label_text":[
+            "the Mongols"
+        ],
+        "prediction_text":"Mongol"
+    },
+    "double__26541_917":{
+        "label_text":[
+            "the Mongols"
+        ],
+        "prediction_text":"Mongol"
+    },
+    "double__35411_18368":{
+        "label_text":[
+            "KPA"
+        ],
+        "prediction_text":"Korea"
+    },
+    "double__35411_29454":{
+        "label_text":[
+            "1598"
+        ],
+        "prediction_text":"1598"
+    },
+    "double__35411_33141":{
+        "label_text":[
+            "from the rising of Joseon Dynasty to the enthronement of King Gojong"
+        ],
+        "prediction_text":"Korea"
+    },
+    "double__18251_29454":{
+        "label_text":[
+            "1598"
+        ],
+        "prediction_text":"1598"
+    },
+    "double__18251_18368":{
+        "label_text":[
+            "KPA"
+        ],
+        "prediction_text":"China"
+    },
+    "double__18251_33141":{
+        "label_text":[
+            "from the rising of Joseon Dynasty to the enthronement of King Gojong"
+        ],
+        "prediction_text":"from the rising of Joseon Dynasty to the enthronement of King Gojong"
+    },
+    "double__35411_9902":{
+        "label_text":[
+            "\"the East Indies\""
+        ],
+        "prediction_text":"the East Indies"
+    },
+    "double__18251_9902":{
+        "label_text":[
+            "\"the East Indies\""
+        ],
+        "prediction_text":"the East Indies"
+    },
+    "double__3880_26537":{
+        "label_text":[
+            "Mount Everest"
+        ],
+        "prediction_text":"Mount Everest"
+    },
+    "double__770_26537":{
+        "label_text":[
+            "Mount Everest"
+        ],
+        "prediction_text":"Mount Everest"
+    },
+    "double__864_26537":{
+        "label_text":[
+            "Mount Everest"
+        ],
+        "prediction_text":"Mount Everest"
+    },
+    "double__836_26537":{
+        "label_text":[
+            "Mount Everest"
+        ],
+        "prediction_text":"Mount Everest"
+    },
+    "double__834_26537":{
+        "label_text":[
+            "Mount Everest"
+        ],
+        "prediction_text":"Mount Everest"
+    },
+    "double__26571_26537":{
+        "label_text":[
+            "Mount Everest"
+        ],
+        "prediction_text":"Mount Everest"
+    },
+    "double__30478_41141":{
+        "label_text":[
+            "two-thirds of its population"
+        ],
+        "prediction_text":"two-thirds"
+    },
+    "double__35105_41141":{
+        "label_text":[
+            "two-thirds of its population"
+        ],
+        "prediction_text":"two-thirds"
+    },
+    "double__10533_41141":{
+        "label_text":[
+            "two-thirds of its population"
+        ],
+        "prediction_text":"two-thirds"
+    },
+    "double__16592_41141":{
+        "label_text":[
+            "two-thirds of its population"
+        ],
+        "prediction_text":"two-thirds"
+    },
+    "double__24498_4018":{
+        "label_text":[
+            "June to August"
+        ],
+        "prediction_text":"June to August"
+    },
+    "double__24498_4037":{
+        "label_text":[
+            "Around 300"
+        ],
+        "prediction_text":"300"
+    },
+    "double__24498_3994":{
+        "label_text":[
+            "Pascal Lissouba"
+        ],
+        "prediction_text":"Pascal Lissouba"
+    },
+    "double__24498_3983":{
+        "label_text":[
+            "Fulbert Youlou"
+        ],
+        "prediction_text":"Fulbert Youlou"
+    },
+    "double__24498_4045":{
+        "label_text":[
+            "560"
+        ],
+        "prediction_text":"560"
+    },
+    "double__20910_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20900_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20875_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20717_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20890_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20857_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__11693_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20874_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20908_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20717_20732":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__20862_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20875_20732":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__11693_20732":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__243_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20919_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20874_20732":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__20911_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__5987_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20890_20732":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__20857_20732":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__20910_20724":{
+        "label_text":[
+            "Pacentro, Italy"
+        ],
+        "prediction_text":"Pacentro, Italy"
+    },
+    "double__20903_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__243_20732":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__20919_20732":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__20921_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__5987_20732":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__20921_20732":{
+        "label_text":[
+            "1978"
+        ],
+        "prediction_text":"1978"
+    },
+    "double__20723_20713":{
+        "label_text":[
+            "August 16, 1958"
+        ],
+        "prediction_text":"August 16, 1958"
+    },
+    "double__20900_20724":{
+        "label_text":[
+            "Pacentro, Italy"
+        ],
+        "prediction_text":"Pacentro, Italy"
+    },
+    "double__20874_20724":{
+        "label_text":[
+            "Pacentro, Italy"
+        ],
+        "prediction_text":"Pacentro, Italy"
+    },
+    "double__20717_20724":{
+        "label_text":[
+            "Pacentro, Italy"
+        ],
+        "prediction_text":"Pacentro, Italy"
+    },
+    "double__20875_20724":{
+        "label_text":[
+            "Pacentro, Italy"
+        ],
+        "prediction_text":"Pacentro, Italy"
+    },
+    "double__20857_20724":{
+        "label_text":[
+            "Pacentro, Italy"
+        ],
+        "prediction_text":"Pacentro, Italy"
+    },
+    "double__11693_20779":{
+        "label_text":[
+            "May 1997"
+        ],
+        "prediction_text":"May 1997"
+    },
+    "double__17446_20661":{
+        "label_text":[
+            "1971"
+        ],
+        "prediction_text":"January 1968"
+    },
+    "double__1575_36839":{
+        "label_text":[
+            "First Sino-Japanese"
+        ],
+        "prediction_text":"First Sino-Japanese War"
+    },
+    "double__1575_20314":{
+        "label_text":[
+            "era of Guomindang"
+        ],
+        "prediction_text":"era of Guomindang-imposed martial law (1949\u20131987)"
+    },
+    "double__37715_36090":{
+        "label_text":[
+            "\u00c1lvaro de Menda\u00f1a"
+        ],
+        "prediction_text":"\u00c1lvaro de Menda\u00f1a"
+    },
+    "double__37715_36180":{
+        "label_text":[
+            "Tuvalu Overseas Seamen's Union"
+        ],
+        "prediction_text":"Tuvalu Overseas Seamen's Union"
+    },
+    "double__37715_36134":{
+        "label_text":[
+            "Majuro Declaration"
+        ],
+        "prediction_text":"Majuro Declaration"
+    },
+    "double__37715_36163":{
+        "label_text":[
+            "kilikiti"
+        ],
+        "prediction_text":"kilikiti"
+    },
+    "double__37715_36215":{
+        "label_text":[
+            "4.6 metres"
+        ],
+        "prediction_text":"Tuvalu"
+    },
+    "double__37715_36092":{
+        "label_text":[
+            "British protectorate"
+        ],
+        "prediction_text":"protectorate"
+    },
+    "double__37715_36128":{
+        "label_text":[
+            "High Court of Tuvalu"
+        ],
+        "prediction_text":"High Court of Tuvalu"
+    },
+    "double__37715_36170":{
+        "label_text":[
+            "Tuvalu Games"
+        ],
+        "prediction_text":"Tuvalu Games"
+    },
+    "double__37715_36167":{
+        "label_text":[
+            "Pacific Mini Games"
+        ],
+        "prediction_text":"Pacific Mini Games"
+    },
+    "double__37715_36195":{
+        "label_text":[
+            "607"
+        ],
+        "prediction_text":"607."
+    },
+    "double__8531_2630":{
+        "label_text":[
+            "one of the poorest"
+        ],
+        "prediction_text":"poorest"
+    },
+    "double__8531_24846":{
+        "label_text":[
+            "December 17, 1986"
+        ],
+        "prediction_text":"December 17, 1986"
+    },
+    "double__6458_1094":{
+        "label_text":[
+            "$99"
+        ],
+        "prediction_text":"US$99"
+    },
+    "double__6458_14183":{
+        "label_text":[
+            "Steve Jobs' return"
+        ],
+        "prediction_text":"Steve Jobs' return"
+    },
+    "double__934_1094":{
+        "label_text":[
+            "$99"
+        ],
+        "prediction_text":"US$99"
+    },
+    "double__930_1094":{
+        "label_text":[
+            "$99"
+        ],
+        "prediction_text":"US$99"
+    },
+    "double__934_14183":{
+        "label_text":[
+            "Steve Jobs' return"
+        ],
+        "prediction_text":"Steve Jobs' return"
+    },
+    "double__930_14183":{
+        "label_text":[
+            "Steve Jobs' return"
+        ],
+        "prediction_text":"Steve Jobs' return"
+    },
+    "double__14167_1094":{
+        "label_text":[
+            "$99"
+        ],
+        "prediction_text":"US$99"
+    },
+    "double__6458_1063":{
+        "label_text":[
+            "hundred million"
+        ],
+        "prediction_text":"one-hundred millionth"
+    },
+    "double__934_1063":{
+        "label_text":[
+            "hundred million"
+        ],
+        "prediction_text":"one-hundred millionth"
+    },
+    "double__930_1063":{
+        "label_text":[
+            "hundred million"
+        ],
+        "prediction_text":"one-hundred millionth"
+    },
+    "double__6458_14190":{
+        "label_text":[
+            "the iPod portable music player and iTunes music download service"
+        ],
+        "prediction_text":"iPod portable music player and iTunes music download service"
+    },
+    "double__14167_1063":{
+        "label_text":[
+            "hundred million"
+        ],
+        "prediction_text":"one-hundred millionth"
+    },
+    "double__934_14190":{
+        "label_text":[
+            "the iPod portable music player and iTunes music download service"
+        ],
+        "prediction_text":"iPod portable music player and iTunes music download service"
+    },
+    "double__930_14190":{
+        "label_text":[
+            "the iPod portable music player and iTunes music download service"
+        ],
+        "prediction_text":"iPod portable music player and iTunes music download service"
+    },
+    "double__6458_1069":{
+        "label_text":[
+            "19.22%"
+        ],
+        "prediction_text":"19.22%"
+    },
+    "double__930_1069":{
+        "label_text":[
+            "19.22%"
+        ],
+        "prediction_text":"19.22%"
+    },
+    "double__934_1069":{
+        "label_text":[
+            "19.22%"
+        ],
+        "prediction_text":"19.22%"
+    },
+    "double__6458_14184":{
+        "label_text":[
+            "Steve Jobs"
+        ],
+        "prediction_text":"Steve Jobs"
+    },
+    "double__930_14184":{
+        "label_text":[
+            "Steve Jobs"
+        ],
+        "prediction_text":"Steve Jobs"
+    },
+    "double__934_14184":{
+        "label_text":[
+            "Steve Jobs"
+        ],
+        "prediction_text":"Steve Jobs"
+    },
+    "double__5329_5418":{
+        "label_text":[
+            "Mick Cornett"
+        ],
+        "prediction_text":"Mick Cornett"
+    },
+    "double__27075_5418":{
+        "label_text":[
+            "Mick Cornett"
+        ],
+        "prediction_text":"Mick Cornett"
+    },
+    "double__5329_5348":{
+        "label_text":[
+            "North Canadian River"
+        ],
+        "prediction_text":"North Canadian River"
+    },
+    "double__5329_5365":{
+        "label_text":[
+            "230,233"
+        ],
+        "prediction_text":"230,233"
+    },
+    "double__26988_5418":{
+        "label_text":[
+            "Mick Cornett"
+        ],
+        "prediction_text":"Mick Cornett"
+    },
+    "double__2675_5418":{
+        "label_text":[
+            "Mick Cornett"
+        ],
+        "prediction_text":"Mick Cornett"
+    },
+    "double__5330_5418":{
+        "label_text":[
+            "Mick Cornett"
+        ],
+        "prediction_text":"Mick Cornett"
+    },
+    "double__5330_5348":{
+        "label_text":[
+            "North Canadian River"
+        ],
+        "prediction_text":"North Canadian River"
+    },
+    "double__27075_5365":{
+        "label_text":[
+            "230,233"
+        ],
+        "prediction_text":"230,233"
+    },
+    "double__2675_5365":{
+        "label_text":[
+            "230,233"
+        ],
+        "prediction_text":"230,233"
+    },
+    "double__26988_5365":{
+        "label_text":[
+            "230,233"
+        ],
+        "prediction_text":"230,233"
+    },
+    "double__2675_5348":{
+        "label_text":[
+            "North Canadian River"
+        ],
+        "prediction_text":"North Canadian River"
+    },
+    "double__26988_5348":{
+        "label_text":[
+            "North Canadian River"
+        ],
+        "prediction_text":"North Canadian River"
+    },
+    "double__5371_5418":{
+        "label_text":[
+            "Mick Cornett"
+        ],
+        "prediction_text":"Mick Cornett"
+    },
+    "double__27075_5348":{
+        "label_text":[
+            "North Canadian River"
+        ],
+        "prediction_text":"North Canadian River"
+    },
+    "double__27032_5418":{
+        "label_text":[
+            "Mick Cornett"
+        ],
+        "prediction_text":"Mick Cornett"
+    },
+    "double__5329_5345":{
+        "label_text":[
+            "620.34 square miles"
+        ],
+        "prediction_text":"620.34"
+    },
+    "double__5330_5365":{
+        "label_text":[
+            "230,233"
+        ],
+        "prediction_text":"230,233"
+    },
+    "double__26988_5370":{
+        "label_text":[
+            "620,602"
+        ],
+        "prediction_text":"620,602"
+    },
+    "double__5330_5345":{
+        "label_text":[
+            "620.34 square miles"
+        ],
+        "prediction_text":"620.34"
+    },
+    "double__5329_5400":{
+        "label_text":[
+            "Big 12 Baseball Tournament"
+        ],
+        "prediction_text":"Big 12 Baseball Tournament"
+    },
+    "double__27032_5365":{
+        "label_text":[
+            "230,233"
+        ],
+        "prediction_text":"Oklahoma City"
+    },
+    "double__27075_5345":{
+        "label_text":[
+            "620.34 square miles"
+        ],
+        "prediction_text":"620.34"
+    },
+    "double__5430_5418":{
+        "label_text":[
+            "Mick Cornett"
+        ],
+        "prediction_text":"Mick Cornett"
+    },
+    "double__5371_5365":{
+        "label_text":[
+            "230,233"
+        ],
+        "prediction_text":"230,233"
+    },
+    "double__26983_5418":{
+        "label_text":[
+            "Mick Cornett"
+        ],
+        "prediction_text":"Mick Cornett"
+    },
+    "double__27032_5348":{
+        "label_text":[
+            "North Canadian River"
+        ],
+        "prediction_text":"North Canadian River"
+    },
+    "double__26988_5345":{
+        "label_text":[
+            "620.34 square miles"
+        ],
+        "prediction_text":"620.34"
+    },
+    "double__27075_5370":{
+        "label_text":[
+            "620,602"
+        ],
+        "prediction_text":"620,602"
+    },
+    "double__2675_5345":{
+        "label_text":[
+            "620.34 square miles"
+        ],
+        "prediction_text":"620.34"
+    },
+    "double__5371_5348":{
+        "label_text":[
+            "North Canadian River"
+        ],
+        "prediction_text":"North Canadian River"
+    },
+    "double__2675_5370":{
+        "label_text":[
+            "620,602"
+        ],
+        "prediction_text":"620,602"
+    },
+    "double__27073_5365":{
+        "label_text":[
+            "230,233"
+        ],
+        "prediction_text":"230,233"
+    },
+    "double__27073_5348":{
+        "label_text":[
+            "North Canadian River"
+        ],
+        "prediction_text":"North Canadian River"
+    },
+    "double__26983_5348":{
+        "label_text":[
+            "North Canadian River"
+        ],
+        "prediction_text":"North Canadian River"
+    },
+    "double__5330_5400":{
+        "label_text":[
+            "Big 12 Baseball Tournament"
+        ],
+        "prediction_text":"Big 12 Baseball Tournament"
+    },
+    "double__27075_5400":{
+        "label_text":[
+            "Big 12 Baseball Tournament"
+        ],
+        "prediction_text":"Big 12 Baseball Tournament"
+    },
+    "double__5371_5370":{
+        "label_text":[
+            "620,602"
+        ],
+        "prediction_text":"620,602"
+    },
+    "double__27032_5370":{
+        "label_text":[
+            "620,602"
+        ],
+        "prediction_text":"620,602"
+    },
+    "double__5430_5348":{
+        "label_text":[
+            "North Canadian River"
+        ],
+        "prediction_text":"North Canadian River"
+    },
+    "double__5371_5345":{
+        "label_text":[
+            "620.34 square miles"
+        ],
+        "prediction_text":"620.34"
+    },
+    "double__2675_5400":{
+        "label_text":[
+            "Big 12 Baseball Tournament"
+        ],
+        "prediction_text":"Big 12 Baseball Tournament"
+    },
+    "double__27032_5345":{
+        "label_text":[
+            "620.34 square miles"
+        ],
+        "prediction_text":"620.34"
+    },
+    "double__26988_5400":{
+        "label_text":[
+            "Big 12 Baseball Tournament"
+        ],
+        "prediction_text":"Festival of the Arts"
+    },
+    "double__26983_5345":{
+        "label_text":[
+            "620.34 square miles"
+        ],
+        "prediction_text":"620.34"
+    },
+    "double__5430_5370":{
+        "label_text":[
+            "620,602"
+        ],
+        "prediction_text":"620,602"
+    },
+    "double__5430_5345":{
+        "label_text":[
+            "620.34 square miles"
+        ],
+        "prediction_text":"620.34"
+    },
+    "double__27073_5370":{
+        "label_text":[
+            "620,602"
+        ],
+        "prediction_text":"1,252,987"
+    },
+    "double__5371_5400":{
+        "label_text":[
+            "Big 12 Baseball Tournament"
+        ],
+        "prediction_text":"Big 12 Baseball Tournament"
+    },
+    "double__27032_5400":{
+        "label_text":[
+            "Big 12 Baseball Tournament"
+        ],
+        "prediction_text":"Big 12 Baseball Tournament"
+    },
+    "double__27073_5400":{
+        "label_text":[
+            "Big 12 Baseball Tournament"
+        ],
+        "prediction_text":"Big 12 Baseball Tournament"
+    },
+    "double__5329_5359":{
+        "label_text":[
+            "May 2015"
+        ],
+        "prediction_text":"May 2015"
+    },
+    "double__5330_5359":{
+        "label_text":[
+            "May 2015"
+        ],
+        "prediction_text":"May 2015"
+    },
+    "double__2675_5359":{
+        "label_text":[
+            "May 2015"
+        ],
+        "prediction_text":"May 2015"
+    },
+    "double__26988_5359":{
+        "label_text":[
+            "May 2015"
+        ],
+        "prediction_text":"May 2015"
+    },
+    "double__27075_5359":{
+        "label_text":[
+            "May 2015"
+        ],
+        "prediction_text":"May 2015"
+    },
+    "double__11212_11179":{
+        "label_text":[
+            "249,998"
+        ],
+        "prediction_text":"249,998"
+    },
+    "double__3756_11179":{
+        "label_text":[
+            "249,998"
+        ],
+        "prediction_text":"249,998"
+    },
+    "double__11092_11179":{
+        "label_text":[
+            "249,998"
+        ],
+        "prediction_text":"249,998"
+    },
+    "double__11212_3752":{
+        "label_text":[
+            "April 17"
+        ],
+        "prediction_text":"30 January 1948"
+    },
+    "double__11167_11179":{
+        "label_text":[
+            "249,998"
+        ],
+        "prediction_text":"249,998"
+    },
+    "double__11230_11179":{
+        "label_text":[
+            "249,998"
+        ],
+        "prediction_text":"249,998"
+    },
+    "double__11167_3752":{
+        "label_text":[
+            "April 17"
+        ],
+        "prediction_text":"New Delhi"
+    },
+    "double__11092_3752":{
+        "label_text":[
+            "April 17"
+        ],
+        "prediction_text":"April 17"
+    },
+    "double__11212_11125":{
+        "label_text":[
+            "the middle of the summer"
+        ],
+        "prediction_text":"middle of the summer"
+    },
+    "double__11212_11117":{
+        "label_text":[
+            "16.5 sq mi"
+        ],
+        "prediction_text":"(16.5"
+    },
+    "double__11181_3752":{
+        "label_text":[
+            "April 17"
+        ],
+        "prediction_text":"2011"
+    },
+    "double__11167_11125":{
+        "label_text":[
+            "the middle of the summer"
+        ],
+        "prediction_text":"July and August"
+    },
+    "double__11092_11125":{
+        "label_text":[
+            "the middle of the summer"
+        ],
+        "prediction_text":"July and August"
+    },
+    "double__3756_11117":{
+        "label_text":[
+            "16.5 sq mi"
+        ],
+        "prediction_text":"(16.5"
+    },
+    "double__11230_3752":{
+        "label_text":[
+            "April 17"
+        ],
+        "prediction_text":"April 17"
+    },
+    "double__11165_3752":{
+        "label_text":[
+            "April 17"
+        ],
+        "prediction_text":"April 17"
+    },
+    "double__3756_11122":{
+        "label_text":[
+            "4.2-magnitude"
+        ],
+        "prediction_text":"4.2"
+    },
+    "double__3756_11226":{
+        "label_text":[
+            "1951"
+        ],
+        "prediction_text":"2010"
+    },
+    "double__11181_11125":{
+        "label_text":[
+            "the middle of the summer"
+        ],
+        "prediction_text":"in the middle of the summer"
+    },
+    "double__11167_11117":{
+        "label_text":[
+            "16.5 sq mi"
+        ],
+        "prediction_text":"(16.5"
+    },
+    "double__11092_11117":{
+        "label_text":[
+            "16.5 sq mi"
+        ],
+        "prediction_text":"(16.5"
+    },
+    "double__11212_11122":{
+        "label_text":[
+            "4.2-magnitude"
+        ],
+        "prediction_text":"4.2"
+    },
+    "double__11212_11226":{
+        "label_text":[
+            "1951"
+        ],
+        "prediction_text":"1951"
+    },
+    "double__11230_11125":{
+        "label_text":[
+            "the middle of the summer"
+        ],
+        "prediction_text":"July and August"
+    },
+    "double__11097_11125":{
+        "label_text":[
+            "the middle of the summer"
+        ],
+        "prediction_text":"middle of the summer"
+    },
+    "double__11181_11117":{
+        "label_text":[
+            "16.5 sq mi"
+        ],
+        "prediction_text":"(16.5 sq mi"
+    },
+    "double__11092_11226":{
+        "label_text":[
+            "1951"
+        ],
+        "prediction_text":"1951"
+    },
+    "double__11212_11140":{
+        "label_text":[
+            "the Central Government of India"
+        ],
+        "prediction_text":"Central Government of India"
+    },
+    "double__11230_11117":{
+        "label_text":[
+            "16.5 sq mi"
+        ],
+        "prediction_text":"(16.5"
+    },
+    "double__11167_11226":{
+        "label_text":[
+            "1951"
+        ],
+        "prediction_text":"1951"
+    },
+    "double__11167_11122":{
+        "label_text":[
+            "4.2-magnitude"
+        ],
+        "prediction_text":"4.2"
+    },
+    "double__11092_11122":{
+        "label_text":[
+            "4.2-magnitude"
+        ],
+        "prediction_text":"4.2"
+    },
+    "double__3756_11218":{
+        "label_text":[
+            "National Rail Museum"
+        ],
+        "prediction_text":"National Rail Museum"
+    },
+    "double__3756_11140":{
+        "label_text":[
+            "the Central Government of India"
+        ],
+        "prediction_text":"Central Government of India"
+    },
+    "double__11212_11218":{
+        "label_text":[
+            "National Rail Museum"
+        ],
+        "prediction_text":"National Rail Museum"
+    },
+    "double__14969_14960":{
+        "label_text":[
+            "14,000,000 square kilometres"
+        ],
+        "prediction_text":"14,000,000"
+    },
+    "double__15010_14960":{
+        "label_text":[
+            "14,000,000 square kilometres"
+        ],
+        "prediction_text":"Antarctica"
+    },
+    "double__15010_15014":{
+        "label_text":[
+            "60th parallel south"
+        ],
+        "prediction_text":"60th parallel south"
+    },
+    "double__14969_15014":{
+        "label_text":[
+            "60th parallel south"
+        ],
+        "prediction_text":"60th parallel south"
+    },
+    "double__14922_14960":{
+        "label_text":[
+            "14,000,000 square kilometres"
+        ],
+        "prediction_text":"Antarctica"
+    },
+    "double__14969_14948":{
+        "label_text":[
+            "south of 60\u00b0 S"
+        ],
+        "prediction_text":"60\u00b0 S"
+    },
+    "double__15010_14971":{
+        "label_text":[
+            "fifth-largest"
+        ],
+        "prediction_text":"fifth-largest"
+    },
+    "double__14922_15014":{
+        "label_text":[
+            "60th parallel south"
+        ],
+        "prediction_text":"60th parallel south"
+    },
+    "double__14957_15014":{
+        "label_text":[
+            "60th parallel south"
+        ],
+        "prediction_text":"60th parallel south"
+    },
+    "double__15010_14970":{
+        "label_text":[
+            "5,400,000"
+        ],
+        "prediction_text":"(5,400,000"
+    },
+    "double__15010_14948":{
+        "label_text":[
+            "south of 60\u00b0 S"
+        ],
+        "prediction_text":"60\u00b0 S"
+    },
+    "double__14922_14948":{
+        "label_text":[
+            "south of 60\u00b0 S"
+        ],
+        "prediction_text":"60\u00b0 S"
+    },
+    "double__14922_14970":{
+        "label_text":[
+            "5,400,000"
+        ],
+        "prediction_text":"(5,400,000"
+    },
+    "double__15010_14937":{
+        "label_text":[
+            "1957"
+        ],
+        "prediction_text":"1957"
+    },
+    "double__14969_14937":{
+        "label_text":[
+            "1957"
+        ],
+        "prediction_text":"1957"
+    },
+    "double__14957_14948":{
+        "label_text":[
+            "south of 60\u00b0 S"
+        ],
+        "prediction_text":"60\u00b0 S"
+    },
+    "double__15010_14927":{
+        "label_text":[
+            "International Polar Year"
+        ],
+        "prediction_text":"International Polar Year"
+    },
+    "double__14922_14971":{
+        "label_text":[
+            "fifth-largest"
+        ],
+        "prediction_text":"fifth-largest"
+    },
+    "double__14969_14927":{
+        "label_text":[
+            "International Polar Year"
+        ],
+        "prediction_text":"International Polar Year"
+    },
+    "double__14957_14927":{
+        "label_text":[
+            "International Polar Year"
+        ],
+        "prediction_text":"International Polar Year"
+    },
+    "double__14957_14937":{
+        "label_text":[
+            "1957"
+        ],
+        "prediction_text":"1957"
+    },
+    "double__14922_14937":{
+        "label_text":[
+            "1957"
+        ],
+        "prediction_text":"1957"
+    },
+    "double__14922_14927":{
+        "label_text":[
+            "International Polar Year"
+        ],
+        "prediction_text":"International Polar Year"
+    },
+    "double__40371_4681":{
+        "label_text":[
+            "June 1932"
+        ],
+        "prediction_text":"June 1932"
+    },
+    "double__40371_4688":{
+        "label_text":[
+            "six months"
+        ],
+        "prediction_text":"six months"
+    },
+    "double__40371_4697":{
+        "label_text":[
+            "Mickey's Gala Premier"
+        ],
+        "prediction_text":"Mickey Mouse cartoon, Mickey's Gala Premier"
+    },
+    "double__42321_495":{
+        "label_text":[
+            "September 1829"
+        ],
+        "prediction_text":"September 1829"
+    },
+    "double__381_42328":{
+        "label_text":[
+            "60"
+        ],
+        "prediction_text":"60"
+    },
+    "double__381_495":{
+        "label_text":[
+            "September 1829"
+        ],
+        "prediction_text":"September 1829"
+    },
+    "double__42321_42328":{
+        "label_text":[
+            "60"
+        ],
+        "prediction_text":"60"
+    },
+    "double__381_42292":{
+        "label_text":[
+            "Warsaw City Council"
+        ],
+        "prediction_text":"Warsaw City Council"
+    },
+    "double__381_42277":{
+        "label_text":[
+            "Kabaty"
+        ],
+        "prediction_text":"Kabaty Forest"
+    },
+    "double__24892_495":{
+        "label_text":[
+            "September 1829"
+        ],
+        "prediction_text":"September 1829"
+    },
+    "double__42321_430":{
+        "label_text":[
+            "October 1810"
+        ],
+        "prediction_text":"October 1810"
+    },
+    "double__42321_434":{
+        "label_text":[
+            "Saxon Palace."
+        ],
+        "prediction_text":"boarding house"
+    },
+    "double__42321_42277":{
+        "label_text":[
+            "Kabaty"
+        ],
+        "prediction_text":"Kabaty Forest"
+    },
+    "double__383_42328":{
+        "label_text":[
+            "60"
+        ],
+        "prediction_text":"60"
+    },
+    "double__381_430":{
+        "label_text":[
+            "October 1810"
+        ],
+        "prediction_text":"October 1810"
+    },
+    "double__24892_42328":{
+        "label_text":[
+            "60"
+        ],
+        "prediction_text":"60"
+    },
+    "double__381_434":{
+        "label_text":[
+            "Saxon Palace."
+        ],
+        "prediction_text":"the Palace grounds"
+    },
+    "double__42321_42292":{
+        "label_text":[
+            "Warsaw City Council"
+        ],
+        "prediction_text":"Warsaw City Council"
+    },
+    "double__383_495":{
+        "label_text":[
+            "September 1829"
+        ],
+        "prediction_text":"September 1829"
+    },
+    "double__42321_42255":{
+        "label_text":[
+            "115.7 metres"
+        ],
+        "prediction_text":"115.7 metres"
+    },
+    "double__24892_42255":{
+        "label_text":[
+            "115.7 metres"
+        ],
+        "prediction_text":"115.7 metres"
+    },
+    "double__383_434":{
+        "label_text":[
+            "Saxon Palace."
+        ],
+        "prediction_text":"the Palace grounds"
+    },
+    "double__383_430":{
+        "label_text":[
+            "October 1810"
+        ],
+        "prediction_text":"October 1810"
+    },
+    "double__383_42277":{
+        "label_text":[
+            "Kabaty"
+        ],
+        "prediction_text":"Kabaty Forest"
+    },
+    "double__24892_42292":{
+        "label_text":[
+            "Warsaw City Council"
+        ],
+        "prediction_text":"Warsaw City Council"
+    },
+    "double__383_42292":{
+        "label_text":[
+            "Warsaw City Council"
+        ],
+        "prediction_text":"Warsaw City Council"
+    },
+    "double__24892_42277":{
+        "label_text":[
+            "Kabaty"
+        ],
+        "prediction_text":"Kabaty Forest"
+    },
+    "double__24892_434":{
+        "label_text":[
+            "Saxon Palace."
+        ],
+        "prediction_text":"boarding house"
+    },
+    "double__24892_430":{
+        "label_text":[
+            "October 1810"
+        ],
+        "prediction_text":"October 1810"
+    },
+    "double__38200_430":{
+        "label_text":[
+            "October 1810"
+        ],
+        "prediction_text":"October 1810"
+    },
+    "double__381_42221":{
+        "label_text":[
+            "9th"
+        ],
+        "prediction_text":"9th"
+    },
+    "double__42321_42221":{
+        "label_text":[
+            "9th"
+        ],
+        "prediction_text":"9th"
+    },
+    "double__24892_42221":{
+        "label_text":[
+            "9th"
+        ],
+        "prediction_text":"9th"
+    },
+    "double__383_42221":{
+        "label_text":[
+            "9th"
+        ],
+        "prediction_text":"9th"
+    },
+    "double__7734_36735":{
+        "label_text":[
+            "June 6"
+        ],
+        "prediction_text":"1421"
+    },
+    "double__7734_36741":{
+        "label_text":[
+            "Dorgon"
+        ],
+        "prediction_text":"the Yongle Emperor"
+    },
+    "double__41723_36735":{
+        "label_text":[
+            "June 6"
+        ],
+        "prediction_text":"June 6."
+    },
+    "double__41723_36741":{
+        "label_text":[
+            "Dorgon"
+        ],
+        "prediction_text":"Dorgon"
+    },
+    "double__41682_36741":{
+        "label_text":[
+            "Dorgon"
+        ],
+        "prediction_text":"Dorgon"
+    },
+    "double__7734_7756":{
+        "label_text":[
+            "1928"
+        ],
+        "prediction_text":"1928"
+    },
+    "double__41723_7756":{
+        "label_text":[
+            "1928"
+        ],
+        "prediction_text":"1928"
+    },
+    "double__13746_34205":{
+        "label_text":[
+            "Turkish business lobby"
+        ],
+        "prediction_text":"Turkish business lobby"
+    },
+    "double__37046_4632":{
+        "label_text":[
+            "Western and Southern coastal regions"
+        ],
+        "prediction_text":"Western and Southern coastal regions of Turkey"
+    },
+    "double__13746_4632":{
+        "label_text":[
+            "Western and Southern coastal regions"
+        ],
+        "prediction_text":"Western and Southern coastal regions of Turkey"
+    },
+    "double__37046_34205":{
+        "label_text":[
+            "Turkish business lobby"
+        ],
+        "prediction_text":"Turkish business lobby"
+    },
+    "double__13746_17274":{
+        "label_text":[
+            "after the 2008\u201309 Gaza War"
+        ],
+        "prediction_text":"2008\u201309 Gaza War"
+    },
+    "double__37046_17274":{
+        "label_text":[
+            "after the 2008\u201309 Gaza War"
+        ],
+        "prediction_text":"2008\u201309 Gaza War"
+    },
+    "double__31867_17274":{
+        "label_text":[
+            "after the 2008\u201309 Gaza War"
+        ],
+        "prediction_text":"2008\u201309 Gaza War and Israel's raid of the Gaza flotilla"
+    },
+    "double__31867_34205":{
+        "label_text":[
+            "Turkish business lobby"
+        ],
+        "prediction_text":"Turkish business lobby"
+    },
+    "double__37046_4184":{
+        "label_text":[
+            "Ankara and Trabzon"
+        ],
+        "prediction_text":"Ankara and Trabzon"
+    },
+    "double__13746_4184":{
+        "label_text":[
+            "Ankara and Trabzon"
+        ],
+        "prediction_text":"Ankara and Trabzon"
+    },
+    "double__31867_4184":{
+        "label_text":[
+            "Ankara and Trabzon"
+        ],
+        "prediction_text":"Kocaeli and Izmir"
+    },
+    "double__13746_34400":{
+        "label_text":[
+            "ethnic tensions with the Turkish Cypriot minority"
+        ],
+        "prediction_text":"The Greek flag is widely used by the Greek Cypriots"
+    },
+    "double__37046_34400":{
+        "label_text":[
+            "ethnic tensions with the Turkish Cypriot minority"
+        ],
+        "prediction_text":"The Greek flag is widely used by the Greek Cypriots"
+    },
+    "double__31867_34400":{
+        "label_text":[
+            "ethnic tensions with the Turkish Cypriot minority"
+        ],
+        "prediction_text":"Cyprus has officially adopted a neutral flag to ease ethnic tensions with the Turkish Cypriot minority"
+    },
+    "double__20632_20644":{
+        "label_text":[
+            "Chinese"
+        ],
+        "prediction_text":"Muslim Malay"
+    },
+    "double__11251_36388":{
+        "label_text":[
+            "1809"
+        ],
+        "prediction_text":"1809"
+    },
+    "double__23139_23142":{
+        "label_text":[
+            "Goodluck Jonathan"
+        ],
+        "prediction_text":"Goodluck Jonathan"
+    },
+    "double__23133_23142":{
+        "label_text":[
+            "Goodluck Jonathan"
+        ],
+        "prediction_text":"Goodluck Jonathan"
+    },
+    "double__23139_23198":{
+        "label_text":[
+            "thirty-six"
+        ],
+        "prediction_text":"thirty-six"
+    },
+    "double__23139_23249":{
+        "label_text":[
+            "3.1 percent"
+        ],
+        "prediction_text":"3.1 percent"
+    },
+    "double__5501_23142":{
+        "label_text":[
+            "Goodluck Jonathan"
+        ],
+        "prediction_text":"Goodluck Jonathan"
+    },
+    "double__23139_23225":{
+        "label_text":[
+            "December 19, 2011"
+        ],
+        "prediction_text":"December 19, 2011."
+    },
+    "double__23139_23235":{
+        "label_text":[
+            "58%"
+        ],
+        "prediction_text":"58%"
+    },
+    "double__23139_23194":{
+        "label_text":[
+            "savannah"
+        ],
+        "prediction_text":"savannah"
+    },
+    "double__23139_23134":{
+        "label_text":[
+            "182 million"
+        ],
+        "prediction_text":"182 million"
+    },
+    "double__23133_23140":{
+        "label_text":[
+            "11 percent"
+        ],
+        "prediction_text":"11 percent"
+    },
+    "double__23139_23202":{
+        "label_text":[
+            "30th in the world"
+        ],
+        "prediction_text":"30th"
+    },
+    "double__23139_23199":{
+        "label_text":[
+            "Federal Capital Territory"
+        ],
+        "prediction_text":"South Africa"
+    },
+    "double__23139_23234":{
+        "label_text":[
+            "over 40%"
+        ],
+        "prediction_text":"40%"
+    },
+    "double__23133_23225":{
+        "label_text":[
+            "December 19, 2011"
+        ],
+        "prediction_text":"December 19, 2011."
+    },
+    "double__23133_23202":{
+        "label_text":[
+            "30th in the world"
+        ],
+        "prediction_text":"30th"
+    },
+    "double__23203_23140":{
+        "label_text":[
+            "11 percent"
+        ],
+        "prediction_text":"11 percent"
+    },
+    "double__23139_23183":{
+        "label_text":[
+            "Oodua Peoples Congress"
+        ],
+        "prediction_text":"Oodua Peoples Congress"
+    },
+    "double__23133_23235":{
+        "label_text":[
+            "58%"
+        ],
+        "prediction_text":"58%"
+    },
+    "double__23133_23198":{
+        "label_text":[
+            "thirty-six"
+        ],
+        "prediction_text":"thirty-six"
+    },
+    "double__23133_23199":{
+        "label_text":[
+            "Federal Capital Territory"
+        ],
+        "prediction_text":"Federal Capital Territory"
+    },
+    "double__23133_23234":{
+        "label_text":[
+            "over 40%"
+        ],
+        "prediction_text":"over 40%"
+    },
+    "double__23133_23249":{
+        "label_text":[
+            "3.1 percent"
+        ],
+        "prediction_text":"3.1 percent"
+    },
+    "double__23133_23194":{
+        "label_text":[
+            "savannah"
+        ],
+        "prediction_text":"savannah"
+    },
+    "double__5501_23198":{
+        "label_text":[
+            "thirty-six"
+        ],
+        "prediction_text":"thirty-six"
+    },
+    "double__5501_23194":{
+        "label_text":[
+            "savannah"
+        ],
+        "prediction_text":"savannah"
+    },
+    "double__23203_23235":{
+        "label_text":[
+            "58%"
+        ],
+        "prediction_text":"58%"
+    },
+    "double__23203_23249":{
+        "label_text":[
+            "3.1 percent"
+        ],
+        "prediction_text":"3.1 percent"
+    },
+    "double__23203_23199":{
+        "label_text":[
+            "Federal Capital Territory"
+        ],
+        "prediction_text":"seventh-largest trade surplus"
+    },
+    "double__23203_23134":{
+        "label_text":[
+            "182 million"
+        ],
+        "prediction_text":"182 million"
+    },
+    "double__23133_23138":{
+        "label_text":[
+            "$1 trillion"
+        ],
+        "prediction_text":"$1 trillion"
+    },
+    "double__23203_23198":{
+        "label_text":[
+            "thirty-six"
+        ],
+        "prediction_text":"seventh"
+    },
+    "double__5501_23199":{
+        "label_text":[
+            "Federal Capital Territory"
+        ],
+        "prediction_text":"Saudi Arabia"
+    },
+    "double__5501_23134":{
+        "label_text":[
+            "182 million"
+        ],
+        "prediction_text":"182 million"
+    },
+    "double__5501_23202":{
+        "label_text":[
+            "30th in the world"
+        ],
+        "prediction_text":"30th"
+    },
+    "double__5501_23234":{
+        "label_text":[
+            "over 40%"
+        ],
+        "prediction_text":"over 40%"
+    },
+    "double__5501_23235":{
+        "label_text":[
+            "58%"
+        ],
+        "prediction_text":"58%"
+    },
+    "triple_io__10222_35281_18364":{
+        "label_text":[
+            "aircraft mistakenly attacked facilities in Chinese territory"
+        ],
+        "prediction_text":"mistakenly attacked facilities in Chinese territory"
+    },
+    "triple_io__10222_36646_18364":{
+        "label_text":[
+            "aircraft mistakenly attacked facilities in Chinese territory"
+        ],
+        "prediction_text":"lack of permanent seats and veto power on the UN Security Council or strategic military reach"
+    },
+    "triple_ii__10879_10446_20649":{
+        "label_text":[
+            "1 January 1956"
+        ],
+        "prediction_text":"Ethiopia"
+    },
+    "triple_ii__10879_10446_10423":{
+        "label_text":[
+            "north"
+        ],
+        "prediction_text":"Ethiopia"
+    },
+    "triple_ii__10879_10446_10422":{
+        "label_text":[
+            "Khartoum"
+        ],
+        "prediction_text":"Ethiopia"
+    },
+    "triple_ii__1266_41881_31210":{
+        "label_text":[
+            "Johann Heinrich Pestalozzi"
+        ],
+        "prediction_text":"Maria Montessori and Rudolf Steiner"
+    },
+    "triple_ii__1266_41881_9427":{
+        "label_text":[
+            "30%"
+        ],
+        "prediction_text":"Forty percent"
+    },
+    "triple_ii__1266_41881_22389":{
+        "label_text":[
+            "3.2%"
+        ],
+        "prediction_text":"3.2%"
+    },
+    "triple_ii__1266_41881_8111":{
+        "label_text":[
+            "Swiss German"
+        ],
+        "prediction_text":"Swiss German"
+    },
+    "triple_ii__1266_41881_8206":{
+        "label_text":[
+            "21.6%"
+        ],
+        "prediction_text":"21.6%"
+    },
+    "triple_ii__1266_41881_22384":{
+        "label_text":[
+            "Europe's most innovative country"
+        ],
+        "prediction_text":"Europe's most innovative country"
+    },
+    "triple_ii__1266_41881_22438":{
+        "label_text":[
+            "Romansh"
+        ],
+        "prediction_text":"Romansh"
+    },
+    "triple_ii__1266_41881_8184":{
+        "label_text":[
+            "Switzerland was neutral"
+        ],
+        "prediction_text":"Austria to the East"
+    },
+    "triple_ii__33286_22372_27337":{
+        "label_text":[
+            "Mohieddin"
+        ],
+        "prediction_text":"Mohieddin"
+    },
+    "triple_ii__33286_22372_31210":{
+        "label_text":[
+            "Johann Heinrich Pestalozzi"
+        ],
+        "prediction_text":"educational pioneers such as Maria Montessori and Rudolf Steiner"
+    },
+    "triple_ii__33286_22372_8111":{
+        "label_text":[
+            "Swiss German"
+        ],
+        "prediction_text":"Swiss"
+    },
+    "triple_ii__33286_22372_8206":{
+        "label_text":[
+            "21.6%"
+        ],
+        "prediction_text":"21.6%"
+    },
+    "triple_ii__33286_22372_22389":{
+        "label_text":[
+            "3.2%"
+        ],
+        "prediction_text":"very low"
+    },
+    "triple_ii__33286_22372_9427":{
+        "label_text":[
+            "30%"
+        ],
+        "prediction_text":"Forty percent of the glaciation in Austria has disappeared since 1850, and 30%"
+    },
+    "triple_ii__33286_22372_22438":{
+        "label_text":[
+            "Romansh"
+        ],
+        "prediction_text":"Romansh"
+    },
+    "triple_ii__33286_22372_22384":{
+        "label_text":[
+            "Europe's most innovative country"
+        ],
+        "prediction_text":"Europe's most innovative country"
+    },
+    "triple_ii__33286_22372_8184":{
+        "label_text":[
+            "Switzerland was neutral"
+        ],
+        "prediction_text":"Switzerland was neutral"
+    },
+    "triple_ii__3157_3356_24622":{
+        "label_text":[
+            "Old North State"
+        ],
+        "prediction_text":"Old North State"
+    },
+    "triple_ii__3157_3356_24534":{
+        "label_text":[
+            "fewer than 20"
+        ],
+        "prediction_text":"fewer than 20"
+    },
+    "triple_ii__3157_3356_24603":{
+        "label_text":[
+            "one-third"
+        ],
+        "prediction_text":"one-third"
+    },
+    "triple_ii__3157_3356_24600":{
+        "label_text":[
+            "33"
+        ],
+        "prediction_text":"33%"
+    },
+    "triple_ii__3157_3356_24602":{
+        "label_text":[
+            "eastern coastal plain"
+        ],
+        "prediction_text":"North Carolina"
+    },
+    "triple_ii__3152_3356_24622":{
+        "label_text":[
+            "Old North State"
+        ],
+        "prediction_text":"Old North State"
+    },
+    "triple_ii__8294_15324_26316":{
+        "label_text":[
+            "in the two financial districts"
+        ],
+        "prediction_text":"the City of London and Canary Wharf"
+    },
+    "triple_ii__8294_15324_35370":{
+        "label_text":[
+            "9 million"
+        ],
+        "prediction_text":"9 million"
+    },
+    "triple_ii__8294_15324_26254":{
+        "label_text":[
+            "the 11th century"
+        ],
+        "prediction_text":"11th"
+    },
+    "double__27372_34883":{
+        "label_text":[
+            "combat information centers"
+        ],
+        "prediction_text":"combat information centers"
+    },
+    "double__661_26316":{
+        "label_text":[
+            "in the two financial districts"
+        ],
+        "prediction_text":"two financial districts, the City of London and Canary Wharf"
+    },
+    "double__19324_19193":{
+        "label_text":[
+            "1980s"
+        ],
+        "prediction_text":"1980s"
+    },
+    "double__11799_2083":{
+        "label_text":[
+            "Bellevue Hospital"
+        ],
+        "prediction_text":"Bellevue Hospital"
+    },
+    "double__13058_21544":{
+        "label_text":[
+            "1377"
+        ],
+        "prediction_text":"1377"
+    },
+    "double__6649_6713":{
+        "label_text":[
+            "80%"
+        ],
+        "prediction_text":"87%"
+    },
+    "double__32375_37774":{
+        "label_text":[
+            "1834"
+        ],
+        "prediction_text":"1834"
+    },
+    "double__39958_15561":{
+        "label_text":[
+            "1,411"
+        ],
+        "prediction_text":"1,411"
+    },
+    "double__21099_4303":{
+        "label_text":[
+            "the strategic bombing of German cities"
+        ],
+        "prediction_text":"Germany"
+    },
+    "double__24685_41437":{
+        "label_text":[
+            "23.9%"
+        ],
+        "prediction_text":"23.9%"
+    },
+    "double__1317_1327":{
+        "label_text":[
+            "374"
+        ],
+        "prediction_text":"647"
+    },
+    "double__9497_4659":{
+        "label_text":[
+            "Mussolini"
+        ],
+        "prediction_text":"Adolf Hitler"
+    },
+    "double__12460_24607":{
+        "label_text":[
+            "June 8, 1861"
+        ],
+        "prediction_text":"June 8, 1861"
+    },
+    "double__9438_22384":{
+        "label_text":[
+            "Europe's most innovative country"
+        ],
+        "prediction_text":"Europe's most innovative country"
+    },
+    "double__10482_4635":{
+        "label_text":[
+            "Rome"
+        ],
+        "prediction_text":"Western Roman Empire"
+    },
+    "double__5831_6832":{
+        "label_text":[
+            "89.6 square miles"
+        ],
+        "prediction_text":"89.6 square miles"
+    },
+    "double__39015_11098":{
+        "label_text":[
+            "the centre of northern India"
+        ],
+        "prediction_text":"northern India"
+    },
+    "double__212_32333":{
+        "label_text":[
+            "More than 1.4 million university students were enrolled in language courses"
+        ],
+        "prediction_text":"1.4 million"
+    },
+    "double__11742_26878":{
+        "label_text":[
+            "Biblioth\u00e8que nationale et universitaire"
+        ],
+        "prediction_text":"Biblioth\u00e8que nationale et universitaire"
+    },
+    "double__10001_33297":{
+        "label_text":[
+            "\"Four Policemen\""
+        ],
+        "prediction_text":"The United Nations"
+    },
+    "double__5956_26308":{
+        "label_text":[
+            "1666"
+        ],
+        "prediction_text":"1666"
+    },
+    "double__22731_42360":{
+        "label_text":[
+            "territory east of the Mississippi"
+        ],
+        "prediction_text":"the Dardanelles"
+    },
+    "double__10879_15069":{
+        "label_text":[
+            "1953"
+        ],
+        "prediction_text":"1953"
+    },
+    "double__26104_26005":{
+        "label_text":[
+            "Midwest"
+        ],
+        "prediction_text":"Midwest"
+    },
+    "double__9717_1891":{
+        "label_text":[
+            "21"
+        ],
+        "prediction_text":"21"
+    },
+    "double__28964_10956":{
+        "label_text":[
+            "5.5 million"
+        ],
+        "prediction_text":"5.5 million"
+    },
+    "double__1317_1314":{
+        "label_text":[
+            "July"
+        ],
+        "prediction_text":"March 2015"
+    },
+    "double__1265_21126":{
+        "label_text":[
+            "as low as 10%"
+        ],
+        "prediction_text":"50%"
+    },
+    "double__9471_31210":{
+        "label_text":[
+            "Johann Heinrich Pestalozzi"
+        ],
+        "prediction_text":"John Dewey and Francis Parker"
+    },
+    "double__10222_23354":{
+        "label_text":[
+            "German government"
+        ],
+        "prediction_text":"The German government"
+    },
+    "double__21555_26878":{
+        "label_text":[
+            "Biblioth\u00e8que nationale et universitaire"
+        ],
+        "prediction_text":"Biblioth\u00e8que nationale et universitaire"
+    },
+    "double__9438_22438":{
+        "label_text":[
+            "Romansh"
+        ],
+        "prediction_text":"Romansh"
+    },
+    "double__13651_33822":{
+        "label_text":[
+            "1963"
+        ],
+        "prediction_text":"1952"
+    },
+    "double__9508_9426":{
+        "label_text":[
+            "Forty percent"
+        ],
+        "prediction_text":"Forty percent"
+    },
+    "double__27237_19483":{
+        "label_text":[
+            "1814"
+        ],
+        "prediction_text":"1814"
+    },
+    "double__24685_41391":{
+        "label_text":[
+            "third largest"
+        ],
+        "prediction_text":"third largest"
+    },
+    "double__15118_31263":{
+        "label_text":[
+            "Perryville"
+        ],
+        "prediction_text":"Perryville"
+    },
+    "double__42187_26397":{
+        "label_text":[
+            "academic health science centres"
+        ],
+        "prediction_text":"academic health science centres"
+    },
+    "double__18516_31433":{
+        "label_text":[
+            "Hamilton Football Club"
+        ],
+        "prediction_text":"Hamilton Football Club"
+    },
+    "double__11167_11227":{
+        "label_text":[
+            "1982"
+        ],
+        "prediction_text":"1982"
+    },
+    "double__12069_12086":{
+        "label_text":[
+            "300"
+        ],
+        "prediction_text":"300"
+    },
+    "double__12069_12058":{
+        "label_text":[
+            "51%"
+        ],
+        "prediction_text":"51%"
+    },
+    "double__32290_33301":{
+        "label_text":[
+            "23 million"
+        ],
+        "prediction_text":"62 million"
+    },
+    "double__19324_19192":{
+        "label_text":[
+            "December 2009"
+        ],
+        "prediction_text":"December 2009"
+    },
+    "double__27237_19379":{
+        "label_text":[
+            "5,000"
+        ],
+        "prediction_text":"5,000"
+    },
+    "double__14223_20655":{
+        "label_text":[
+            "Suez"
+        ],
+        "prediction_text":"Suez"
+    },
+    "double__9438_8111":{
+        "label_text":[
+            "Swiss German"
+        ],
+        "prediction_text":"Swiss"
+    }
+}

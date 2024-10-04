@@ -1,0 +1,6 @@
+dataset: snli_hard
+model:
+  base_model: roberta-large
+  model_name: varun-v-rao/roberta-large-snli-model2
+  model_type: plain
+tokenizer: roberta-large

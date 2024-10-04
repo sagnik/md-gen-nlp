@@ -1,0 +1,11 @@
+Dataset,Mean,Std
+pmonli,94.89,3.59
+snli-cf,74.51,5.08
+snli-bt,82.54,3.43
+conjnli,59.15,5.78
+hans,59.56,7.7
+taxinli,75.05,9.85
+mnli,76.09,8.22
+snli,88.42,3.78
+matmnli,75.58,9.03
+snli_hard,77.48,5.43

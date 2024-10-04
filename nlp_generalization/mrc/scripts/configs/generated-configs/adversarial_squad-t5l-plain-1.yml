@@ -1,0 +1,6 @@
+dataset: squad_adversarial
+model:
+  base_model: t5-large
+  model_name: varun-v-rao/t5-large-squad-model1
+  model_type: plain
+tokenizer: t5-large

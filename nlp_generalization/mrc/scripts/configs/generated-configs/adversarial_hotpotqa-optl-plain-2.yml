@@ -1,0 +1,6 @@
+dataset: varun-v-rao/adversarial_hotpotqa
+tokenizer: facebook/opt-1.3b
+model:
+  model_type: plain
+  base_model: opt-1.3b
+  model_name: varun-v-rao/opt-1.3b-squad-model2

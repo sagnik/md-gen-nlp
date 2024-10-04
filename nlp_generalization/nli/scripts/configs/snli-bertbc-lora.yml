@@ -1,0 +1,6 @@
+dataset: snli
+model:
+  model_type: lora
+  base_model: bert-base-cased
+  model_name: varun-v-rao/bert-base-cased-lora-592K-snli-model1
+tokenizer: bert-base-cased

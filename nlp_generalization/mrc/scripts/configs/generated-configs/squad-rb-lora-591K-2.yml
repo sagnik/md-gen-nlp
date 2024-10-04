@@ -1,0 +1,7 @@
+dataset: varun-v-rao/squad
+tokenizer: roberta-base
+model:
+  model_type: lora
+  base_model: roberta-base
+  model_name: varun-v-rao/roberta-base-lora-591K-squad-model2
+  

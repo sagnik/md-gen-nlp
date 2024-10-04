@@ -1,0 +1,6 @@
+dataset: squad_adversarial
+model:
+  base_model: roberta-large
+  model_name: varun-v-rao/roberta-large-lora-1.57M-squad-model2
+  model_type: lora
+tokenizer: roberta-large

@@ -1,0 +1,6 @@
+dataset: varun-v-rao/adversarial_hotpotqa
+tokenizer: t5-large
+model:
+  model_type: plain
+  base_model: t5-large
+  model_name: varun-v-rao/t5-large-squad-model3

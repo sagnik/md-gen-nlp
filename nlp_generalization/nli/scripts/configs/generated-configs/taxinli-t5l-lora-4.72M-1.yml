@@ -1,0 +1,7 @@
+dataset: taxinli
+tokenizer: t5-large
+model:
+  model_type: lora
+  base_model: t5-large
+  model_name: varun-v-rao/t5-large-lora-4.72M-snli-model1
+  

@@ -1,0 +1,7 @@
+dataset: snli-bt
+tokenizer: t5-base
+model:
+  model_type: adapter
+  base_model: t5-base
+  model_name: varun-v-rao/t5-base-bn-adapter-1.79M-snli-model3
+  

@@ -1,0 +1,6 @@
+dataset: snli_hard
+model:
+  base_model: roberta-base
+  model_name: varun-v-rao/roberta-base-bn-adapter-895K-snli-model1
+  model_type: adapter
+tokenizer: roberta-base

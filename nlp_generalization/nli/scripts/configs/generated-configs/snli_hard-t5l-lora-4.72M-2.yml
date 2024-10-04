@@ -1,0 +1,6 @@
+dataset: snli_hard
+model:
+  base_model: t5-large
+  model_name: varun-v-rao/t5-large-lora-4.72M-snli-model2
+  model_type: lora
+tokenizer: t5-large

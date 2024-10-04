@@ -1,0 +1,19 @@
+#!/bin/bash
+# The interpreter used to execute the script
+
+#“#SBATCH” directives that convey submission options:
+
+#SBATCH --job-name=Train-NLI-T5L-LoRa
+#SBATCH --mail-type=END
+#SBATCH --nodes=1
+#SBATCH --partition=spgpu
+#SBATCH --gpus=4
+#SBATCH --mem-per-gpu=32000m
+#SBATCH --cpus-per-gpu=1
+#SBATCH --time=27:00:00
+#SBATCH --account=vgvinodv0
+#SBATCH --output=./slurms/slurm-%j.out
+#SBATCH --error=./slurms/slurm-%j.err
+# The application(s) to execute along with its input arguments and options:
+
+python train.py --model_checkpoint "t5-large" --train_batch_size 32 --use_peft True

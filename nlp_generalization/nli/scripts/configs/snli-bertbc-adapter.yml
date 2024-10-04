@@ -1,0 +1,6 @@
+dataset: snli
+model:
+  model_type: adapter
+  base_model: bert-base-cased
+  model_name: varun-v-rao/bert-base-cased-bn-adapter-895K-snli
+tokenizer: bert-base-cased

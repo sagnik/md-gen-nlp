@@ -1,0 +1,6 @@
+dataset: squad_adversarial
+model:
+  base_model: t5-base
+  model_name: varun-v-rao/t5-base-bn-adapter-1.79M-squad-model1
+  model_type: adapter
+tokenizer: t5-base

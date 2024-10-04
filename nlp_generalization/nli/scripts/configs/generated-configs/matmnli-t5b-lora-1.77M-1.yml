@@ -1,0 +1,7 @@
+dataset: matmnli
+tokenizer: t5-base
+model:
+  model_type: lora
+  base_model: t5-base
+  model_name: varun-v-rao/t5-base-lora-1.77M-snli-model1
+  

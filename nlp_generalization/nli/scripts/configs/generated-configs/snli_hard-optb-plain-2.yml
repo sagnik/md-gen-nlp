@@ -1,0 +1,6 @@
+dataset: snli_hard
+model:
+  base_model: facebook/opt-350m
+  model_name: varun-v-rao/opt-350m-snli-model2
+  model_type: plain
+tokenizer: facebook/opt-350m

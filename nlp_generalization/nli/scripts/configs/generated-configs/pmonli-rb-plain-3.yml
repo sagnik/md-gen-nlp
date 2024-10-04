@@ -1,0 +1,6 @@
+dataset: pmonli
+tokenizer: roberta-base
+model:
+  model_type: plain
+  base_model: roberta-base
+  model_name: varun-v-rao/roberta-base-snli-model3

@@ -1,0 +1,3 @@
+dataset: mnli
+model: varun-v-rao/bert-base-cased-snli-model1
+tokenizer: varun-v-rao/bert-base-cased-snli-model1

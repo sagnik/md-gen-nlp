@@ -1,0 +1,7 @@
+dataset: musique
+model: varun-v-rao/bert-base-cased-squad
+tokenizer: varun-v-rao/bert-base-cased-squad
+exp_params:
+  dataset_loc: "${GENERALIZATION_HOME}/data/compositionality/mrc/musique/internal-data/only-squad-train.jsonl"
+  num_samples: 1
+  output: "${GENERALIZATION_HOME}/nlp_generalization/results/musique-squad-test/bertbc.jsonl"

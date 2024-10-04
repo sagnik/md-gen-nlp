@@ -1,0 +1,6 @@
+dataset: snli_hard
+model:
+  base_model: bert-large-cased
+  model_name: varun-v-rao/bert-large-cased-bn-adapter-3.17M-snli-model2
+  model_type: adapter
+tokenizer: bert-large-cased

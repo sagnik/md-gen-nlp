@@ -1,0 +1,6 @@
+dataset: snli_hard
+model:
+  base_model: t5-large
+  model_name: varun-v-rao/t5-large-bn-adapter-6.34M-snli-model3
+  model_type: adapter
+tokenizer: t5-large

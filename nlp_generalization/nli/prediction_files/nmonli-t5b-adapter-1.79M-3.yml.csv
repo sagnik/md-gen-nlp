@@ -1,0 +1,201 @@
+pairID,premise,hypothesis,label,predictions
+nmonli_0_n,the man does not own a dog,the man does not own a mammal,1,0
+nmonli_1_e,the man does not own a mammal,the man does not own a dog,0,2
+nmonli_2_n,the man does not own a dog,the man does not own an animal,1,0
+nmonli_3_e,the man does not own an animal,the man does not own a dog,0,1
+nmonli_4_e,the man does not own a dog,the man does not own a pinscher,0,1
+nmonli_5_n,the man does not own a pinscher,the man does not own a dog,1,0
+nmonli_6_e,the man does not own a dog,the man does not own a sheepdog,0,1
+nmonli_7_n,the man does not own a sheepdog,the man does not own a dog,1,0
+nmonli_8_e,the man does not own a dog,the man does not own a greyhound,0,1
+nmonli_9_n,the man does not own a greyhound,the man does not own a dog,1,0
+nmonli_10_e,the man does not own a dog,the man does not own a hound,0,1
+nmonli_11_n,the man does not own a hound,the man does not own a dog,1,0
+nmonli_12_e,the man does not own a dog,the man does not own a husky,0,1
+nmonli_13_n,the man does not own a husky,the man does not own a dog,1,0
+nmonli_14_e,the man does not own a dog,the man does not own a dachshund,0,1
+nmonli_15_n,the man does not own a dachshund,the man does not own a dog,1,0
+nmonli_16_e,the man does not own a dog,the man does not own a Chihuahua,0,1
+nmonli_17_n,the man does not own a Chihuahua,the man does not own a dog,1,0
+nmonli_18_e,the man does not own a dog,the man does not own a spaniel,0,1
+nmonli_19_n,the man does not own a spaniel,the man does not own a dog,1,0
+nmonli_20_e,the man does not own a dog,the man does not own a pug,0,1
+nmonli_21_n,the man does not own a pug,the man does not own a dog,1,0
+nmonli_22_e,the man does not own a dog,the man does not own a beagle,0,1
+nmonli_23_n,the man does not own a beagle,the man does not own a dog,1,0
+nmonli_24_e,the man does not own a dog,the man does not own a malamute,0,1
+nmonli_25_n,the man does not own a malamute,the man does not own a dog,1,2
+nmonli_26_e,the man does not own a dog,the man does not own a Maltese,0,1
+nmonli_27_n,the man does not own a Maltese,the man does not own a dog,1,0
+nmonli_28_e,the man does not own a dog,the man does not own a Doberman,0,1
+nmonli_29_n,the man does not own a Doberman,the man does not own a dog,1,0
+nmonli_30_e,the man does not own a dog,the man does not own a bulldog,0,1
+nmonli_31_n,the man does not own a bulldog,the man does not own a dog,1,0
+nmonli_32_e,the man does not own a dog,the man does not own a collie,0,1
+nmonli_33_n,the man does not own a collie,the man does not own a dog,1,0
+nmonli_34_e,the man does not own a dog,the man does not own a poodle,0,1
+nmonli_35_n,the man does not own a poodle,the man does not own a dog,1,0
+nmonli_36_e,the man does not own a dog,the man does not own a Pomeranian,0,1
+nmonli_37_n,the man does not own a Pomeranian,the man does not own a dog,1,0
+nmonli_38_e,the man does not own a dog,the man does not own a retriever,0,1
+nmonli_39_n,the man does not own a retriever,the man does not own a dog,1,0
+nmonli_40_e,the man does not own a dog,the man does not own a schnauzer,0,1
+nmonli_41_n,the man does not own a schnauzer,the man does not own a dog,1,0
+nmonli_42_e,the man does not own a dog,the man does not own a terrier,0,1
+nmonli_43_n,the man does not own a terrier,the man does not own a dog,1,0
+nmonli_44_e,the man does not own a dog,the man does not own a corgi,0,1
+nmonli_45_n,the man does not own a corgi,the man does not own a dog,1,0
+nmonli_46_e,the man does not own a dog,the man does not own a Rottweiler,0,1
+nmonli_47_n,the man does not own a Rottweiler,the man does not own a dog,1,0
+nmonli_48_e,the man does not own a dog,the man does not own a Shetland,0,1
+nmonli_49_n,the man does not own a Shetland,the man does not own a dog,1,0
+nmonli_50_e,the man does not own a dog,the man does not own a dalmatian,0,1
+nmonli_51_n,the man does not own a dalmatian,the man does not own a dog,1,0
+nmonli_52_n,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed mammal as a gift.,1,0
+nmonli_53_e,The girl will not get a stuffed mammal as a gift.,The girl will not get a stuffed dog as a gift.,0,2
+nmonli_54_n,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed animal as a gift.,1,0
+nmonli_55_e,The girl will not get a stuffed animal as a gift.,The girl will not get a stuffed dog as a gift.,0,1
+nmonli_56_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed pug as a gift.,0,1
+nmonli_57_n,The girl will not get a stuffed pug as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_58_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed husky as a gift.,0,1
+nmonli_59_n,The girl will not get a stuffed husky as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_60_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed corgi as a gift.,0,2
+nmonli_61_n,The girl will not get a stuffed corgi as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_62_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed hound as a gift.,0,0
+nmonli_63_n,The girl will not get a stuffed hound as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_64_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed bulldog as a gift.,0,1
+nmonli_65_n,The girl will not get a stuffed bulldog as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_66_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed terrier as a gift.,0,1
+nmonli_67_n,The girl will not get a stuffed terrier as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_68_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed poodle as a gift.,0,1
+nmonli_69_n,The girl will not get a stuffed poodle as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_70_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed dalmatian as a gift.,0,1
+nmonli_71_n,The girl will not get a stuffed dalmatian as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_72_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed Shetland as a gift.,0,1
+nmonli_73_n,The girl will not get a stuffed Shetland as a gift.,The girl will not get a stuffed dog as a gift.,1,2
+nmonli_74_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed pinscher as a gift.,0,1
+nmonli_75_n,The girl will not get a stuffed pinscher as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_76_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed dachshund as a gift.,0,1
+nmonli_77_n,The girl will not get a stuffed dachshund as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_78_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed Doberman as a gift.,0,1
+nmonli_79_n,The girl will not get a stuffed Doberman as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_80_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed Pomeranian as a gift.,0,1
+nmonli_81_n,The girl will not get a stuffed Pomeranian as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_82_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed beagle as a gift.,0,2
+nmonli_83_n,The girl will not get a stuffed beagle as a gift.,The girl will not get a stuffed dog as a gift.,1,2
+nmonli_84_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed retriever as a gift.,0,1
+nmonli_85_n,The girl will not get a stuffed retriever as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_86_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed Rottweiler as a gift.,0,1
+nmonli_87_n,The girl will not get a stuffed Rottweiler as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_88_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed malamute as a gift.,0,2
+nmonli_89_n,The girl will not get a stuffed malamute as a gift.,The girl will not get a stuffed dog as a gift.,1,2
+nmonli_90_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed schnauzer as a gift.,0,1
+nmonli_91_n,The girl will not get a stuffed schnauzer as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_92_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed greyhound as a gift.,0,1
+nmonli_93_n,The girl will not get a stuffed greyhound as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_94_e,The girl will not get a stuffed dog as a gift.,The girl will not get a stuffed Chihuahua as a gift.,0,1
+nmonli_95_n,The girl will not get a stuffed Chihuahua as a gift.,The girl will not get a stuffed dog as a gift.,1,0
+nmonli_96_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a house.,0,0
+nmonli_97_n,A person reading a paper is not currently sitting inside a house.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_98_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a casino.,0,1
+nmonli_99_n,A person reading a paper is not currently sitting inside a casino.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_100_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a chapel.,0,1
+nmonli_101_n,A person reading a paper is not currently sitting inside a chapel.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_102_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a restaurant.,0,2
+nmonli_103_n,A person reading a paper is not currently sitting inside a restaurant.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_104_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a cabin.,0,2
+nmonli_105_n,A person reading a paper is not currently sitting inside a cabin.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_106_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a school.,0,1
+nmonli_107_n,A person reading a paper is not currently sitting inside a school.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_108_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a court.,0,2
+nmonli_109_n,A person reading a paper is not currently sitting inside a court.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_110_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside an opera.,0,2
+nmonli_111_n,A person reading a paper is not currently sitting inside an opera.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_112_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a monastery.,0,1
+nmonli_113_n,A person reading a paper is not currently sitting inside a monastery.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_114_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a pub.,0,1
+nmonli_115_n,A person reading a paper is not currently sitting inside a pub.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_116_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a steakhouse.,0,1
+nmonli_117_n,A person reading a paper is not currently sitting inside a steakhouse.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_118_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a courthouse.,0,1
+nmonli_119_n,A person reading a paper is not currently sitting inside a courthouse.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_120_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a cathedral.,0,1
+nmonli_121_n,A person reading a paper is not currently sitting inside a cathedral.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_122_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a club.,0,2
+nmonli_123_n,A person reading a paper is not currently sitting inside a club.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_124_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a villa.,0,2
+nmonli_125_n,A person reading a paper is not currently sitting inside a villa.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_126_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside an embassy.,0,1
+nmonli_127_n,A person reading a paper is not currently sitting inside an embassy.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_128_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a temple.,0,1
+nmonli_129_n,A person reading a paper is not currently sitting inside a temple.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_130_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a hotel.,0,1
+nmonli_131_n,A person reading a paper is not currently sitting inside a hotel.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_132_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a bungalow.,0,1
+nmonli_133_n,A person reading a paper is not currently sitting inside a bungalow.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_134_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a cafeteria.,0,1
+nmonli_135_n,A person reading a paper is not currently sitting inside a cafeteria.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_136_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a dormitory.,0,1
+nmonli_137_n,A person reading a paper is not currently sitting inside a dormitory.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_138_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a planetarium.,0,2
+nmonli_139_n,A person reading a paper is not currently sitting inside a planetarium.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_140_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a diner.,0,1
+nmonli_141_n,A person reading a paper is not currently sitting inside a diner.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_142_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a cafe.,0,1
+nmonli_143_n,A person reading a paper is not currently sitting inside a cafe.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_144_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a clinic.,0,1
+nmonli_145_n,A person reading a paper is not currently sitting inside a clinic.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_146_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a skyscraper.,0,1
+nmonli_147_n,A person reading a paper is not currently sitting inside a skyscraper.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_148_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a hospital.,0,1
+nmonli_149_n,A person reading a paper is not currently sitting inside a hospital.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_150_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a manor.,0,1
+nmonli_151_n,A person reading a paper is not currently sitting inside a manor.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_152_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a cinema.,0,1
+nmonli_153_n,A person reading a paper is not currently sitting inside a cinema.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_154_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a motel.,0,1
+nmonli_155_n,A person reading a paper is not currently sitting inside a motel.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_156_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside a library.,0,1
+nmonli_157_n,A person reading a paper is not currently sitting inside a library.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_158_e,A person reading a paper is not currently sitting inside a building.,A person reading a paper is not currently sitting inside an inn.,0,1
+nmonli_159_n,A person reading a paper is not currently sitting inside an inn.,A person reading a paper is not currently sitting inside a building.,1,0
+nmonli_160_e,A dog did not catch any ball.,A dog did not catch any basketball.,0,1
+nmonli_161_n,A dog did not catch any basketball.,A dog did not catch any ball.,1,0
+nmonli_162_e,A dog did not catch any ball.,A dog did not catch any football.,0,1
+nmonli_163_n,A dog did not catch any football.,A dog did not catch any ball.,1,0
+nmonli_164_e,A dog did not catch any ball.,A dog did not catch any handball.,0,1
+nmonli_165_n,A dog did not catch any handball.,A dog did not catch any ball.,1,0
+nmonli_166_e,A dog did not catch any ball.,A dog did not catch any softball.,0,1
+nmonli_167_n,A dog did not catch any softball.,A dog did not catch any ball.,1,0
+nmonli_168_e,A dog did not catch any ball.,A dog did not catch any racquetball.,0,1
+nmonli_169_n,A dog did not catch any racquetball.,A dog did not catch any ball.,1,0
+nmonli_170_e,A dog did not catch any ball.,A dog did not catch any volleyball.,0,1
+nmonli_171_n,A dog did not catch any volleyball.,A dog did not catch any ball.,1,0
+nmonli_172_e,A dog did not catch any ball.,A dog did not catch any baseball.,0,1
+nmonli_173_n,A dog did not catch any baseball.,A dog did not catch any ball.,1,0
+nmonli_174_e,The players did not have a ball.,The players did not have a baseball.,0,1
+nmonli_175_n,The players did not have a baseball.,The players did not have a ball.,1,0
+nmonli_176_e,The players did not have a ball.,The players did not have a basketball.,0,1
+nmonli_177_n,The players did not have a basketball.,The players did not have a ball.,1,0
+nmonli_178_e,The players did not have a ball.,The players did not have a volleyball.,0,2
+nmonli_179_n,The players did not have a volleyball.,The players did not have a ball.,1,0
+nmonli_180_e,The players did not have a ball.,The players did not have a handball.,0,1
+nmonli_181_n,The players did not have a handball.,The players did not have a ball.,1,0
+nmonli_182_e,The players did not have a ball.,The players did not have a football.,0,2
+nmonli_183_n,The players did not have a football.,The players did not have a ball.,1,0
+nmonli_184_e,The players did not have a ball.,The players did not have a racquetball.,0,1
+nmonli_185_n,The players did not have a racquetball.,The players did not have a ball.,1,0
+nmonli_186_e,The players did not have a ball.,The players did not have a softball.,0,1
+nmonli_187_n,The players did not have a softball.,The players did not have a ball.,1,0
+nmonli_188_e,The man is not steering a car,The man is not steering a taxi,0,2
+nmonli_189_n,The man is not steering a taxi,The man is not steering a car,1,0
+nmonli_190_e,The man is not steering a car,The man is not steering a SUV,0,2
+nmonli_191_n,The man is not steering a SUV,The man is not steering a car,1,0
+nmonli_192_e,The man is not steering a car,The man is not steering a subcompact,0,1
+nmonli_193_n,The man is not steering a subcompact,The man is not steering a car,1,0
+nmonli_194_e,The man is not steering a car,The man is not steering a convertible,0,1
+nmonli_195_n,The man is not steering a convertible,The man is not steering a car,1,0
+nmonli_196_e,The man is not steering a car,The man is not steering a jeep,0,2
+nmonli_197_n,The man is not steering a jeep,The man is not steering a car,1,0
+nmonli_198_e,The man is not steering a car,The man is not steering a sedan,0,1
+nmonli_199_n,The man is not steering a sedan,The man is not steering a car,1,0

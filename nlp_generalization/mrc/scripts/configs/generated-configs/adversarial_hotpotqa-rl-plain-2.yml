@@ -1,0 +1,6 @@
+dataset: varun-v-rao/adversarial_hotpotqa
+tokenizer: roberta-large
+model:
+  model_type: plain
+  base_model: roberta-large
+  model_name: varun-v-rao/roberta-large-squad-model2

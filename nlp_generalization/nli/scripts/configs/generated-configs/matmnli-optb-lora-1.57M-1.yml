@@ -1,0 +1,7 @@
+dataset: matmnli
+tokenizer: facebook/opt-350m
+model:
+  model_type: lora
+  base_model: facebook/opt-350m
+  model_name: varun-v-rao/opt-350m-lora-1.57M-snli-model1
+  

@@ -1,0 +1,6 @@
+dataset: pmonli
+tokenizer: t5-base
+model:
+  model_type: plain
+  base_model: t5-base
+  model_name: varun-v-rao/t5-base-snli-model1

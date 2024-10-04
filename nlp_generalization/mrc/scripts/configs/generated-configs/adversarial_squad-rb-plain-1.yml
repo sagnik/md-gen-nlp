@@ -1,0 +1,6 @@
+dataset: squad_adversarial
+model:
+  base_model: roberta-base
+  model_name: varun-v-rao/roberta-base-squad-model1
+  model_type: plain
+tokenizer: roberta-base

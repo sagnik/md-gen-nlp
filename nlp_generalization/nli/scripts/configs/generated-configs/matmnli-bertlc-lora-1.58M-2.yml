@@ -1,0 +1,7 @@
+dataset: matmnli
+tokenizer: bert-large-cased
+model:
+  model_type: lora
+  base_model: bert-large-cased
+  model_name: varun-v-rao/bert-large-cased-lora-1.58M-snli-model2
+  

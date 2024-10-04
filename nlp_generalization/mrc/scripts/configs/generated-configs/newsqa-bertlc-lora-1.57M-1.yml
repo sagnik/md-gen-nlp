@@ -1,0 +1,7 @@
+dataset: varun-v-rao/newsqa
+tokenizer: bert-large-cased
+model:
+  model_type: lora
+  base_model: bert-large-cased
+  model_name: varun-v-rao/bert-large-cased-lora-1.57M-squad-model1
+  

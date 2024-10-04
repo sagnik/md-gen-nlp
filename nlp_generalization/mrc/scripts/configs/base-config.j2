@@ -1,0 +1,12 @@
+dataset: {{ dataset }}
+tokenizer: {{ tokenizer_name }}
+model:
+  model_type: {{ model_type }}
+  base_model: {{ base_model }}
+  {% if model_type == "adapter" -%}
+  model_name: varun-v-rao/{{ base_model }}-bn-{{ model_type }}-{{ num_params }}-squad-model{{ model_index }}
+  {% elif model_type == "lora" -%}
+  model_name: varun-v-rao/{{ base_model }}-{{ model_type }}-{{ num_params }}-squad-model{{ model_index }}
+  {% else -%}
+  model_name: varun-v-rao/{{ base_model }}-squad-model{{ model_index }}
+{%- endif %}

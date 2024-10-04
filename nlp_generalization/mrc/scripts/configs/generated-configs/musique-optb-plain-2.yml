@@ -1,0 +1,6 @@
+dataset: sagnikrayc/musique-squad
+tokenizer: facebook/opt-350m
+model:
+  model_type: plain
+  base_model: opt-350m
+  model_name: varun-v-rao/opt-350m-squad-model2

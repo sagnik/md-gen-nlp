@@ -1,0 +1,12 @@
+dataset: {{ dataset }}
+tokenizer: {{ base_model }}
+model:
+  model_type: {{ model_type }}
+  base_model: {{ base_model }}
+  {% if model_type == "adapter" -%}
+  model_name: varun-v-rao/{{ base_model }}-bn-{{ model_type }}-{{ num_params }}-snli-model{{ model_index }}
+  {% elif model_type == "lora" -%}
+  model_name: varun-v-rao/{{ base_model }}-{{ model_type }}-{{ num_params }}-snli-model{{ model_index }}
+  {% else -%}
+  model_name: varun-v-rao/{{ base_model }}-snli-model{{ model_index }}
+{%- endif %}

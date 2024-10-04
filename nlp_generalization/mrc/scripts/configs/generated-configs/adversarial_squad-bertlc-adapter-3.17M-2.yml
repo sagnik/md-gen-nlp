@@ -1,0 +1,6 @@
+dataset: squad_adversarial
+model:
+  base_model: bert-large-cased
+  model_name: varun-v-rao/bert-large-cased-bn-adapter-3.17M-squad-model2
+  model_type: adapter
+tokenizer: bert-large-cased

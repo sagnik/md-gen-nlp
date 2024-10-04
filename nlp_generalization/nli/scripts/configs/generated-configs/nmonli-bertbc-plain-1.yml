@@ -1,0 +1,6 @@
+dataset: nmonli
+tokenizer: bert-base-cased
+model:
+  model_type: plain
+  base_model: bert-base-cased
+  model_name: varun-v-rao/bert-base-cased-snli-model1

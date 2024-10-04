@@ -1,0 +1,8 @@
+dataset: adv_squad
+model: varun-v-rao/roberta-large-squad
+tokenizer: varun-v-rao/roberta-large-squad
+exp_params:
+  path: "squad_adversarial"
+  setup: AddSent
+  split: validation
+  output: "${GENERALIZATION_HOME}/nlp_generalization/results/adv_squad-squad-test/rl-addsent.jsonl"

@@ -1,0 +1,6 @@
+dataset: squad_adversarial
+model:
+  base_model: t5-base
+  model_name: varun-v-rao/t5-base-lora-1.77M-squad-model1
+  model_type: lora
+tokenizer: t5-base

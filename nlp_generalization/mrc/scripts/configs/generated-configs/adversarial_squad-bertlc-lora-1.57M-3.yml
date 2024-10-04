@@ -1,0 +1,6 @@
+dataset: squad_adversarial
+model:
+  base_model: bert-large-cased
+  model_name: varun-v-rao/bert-large-cased-lora-1.57M-squad-model3
+  model_type: lora
+tokenizer: bert-large-cased

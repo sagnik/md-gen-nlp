@@ -1,0 +1,7 @@
+dataset: nmonli
+tokenizer: roberta-large
+model:
+  model_type: adapter
+  base_model: roberta-large
+  model_name: varun-v-rao/roberta-large-bn-adapter-3.17M-snli-model3
+  
